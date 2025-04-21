@@ -1,0 +1,660 @@
+mentioned_players,negative,neutral,positive,total_mentions,sentiment_score
+lucky farman khan,0,0,2,2,1.0
+aniket pande,0,0,1,1,1.0
+tom hope,0,0,1,1,1.0
+p n jadeja,0,0,1,1,1.0
+thankhuma,0,0,8,8,1.0
+arjun tendulkar,0,0,2,2,1.0
+manthan r upadhyay,0,0,2,2,1.0
+suryansh shedge,0,0,1,1,1.0
+parthiv jayesh,0,0,12,12,1.0
+ashutosh singh,0,0,1,1,1.0
+atharva taide,0,0,1,1,1.0
+madhwal a,0,0,2,2,1.0
+priyesh,0,0,12,12,1.0
+stephen,0,0,2,2,1.0
+bhavyesh donga,0,0,12,12,1.0
+puneet chahal,0,0,3,3,1.0
+luckyraj,0,0,2,2,1.0
+binny,0,0,1,1,1.0
+r a tripathi,0,0,1,1,1.0
+kunal sarma,0,0,1,1,1.0
+shashank upadhyay,0,0,2,2,1.0
+emanjot singh chahal,0,0,3,3,1.0
+krish shahapurkar,0,0,3,3,1.0
+saroj,0,0,1,1,1.0
+george cave,0,0,1,1,1.0
+kirtivardhan upadhyay,0,0,2,2,1.0
+reshi,0,0,2,2,1.0
+rohit singh,0,0,1,1,1.0
+jayden goodwin,0,0,2,2,1.0
+aniket verma,0,0,2,2,1.0
+joshua,0,0,2,2,1.0
+yuvraj singh,0,0,1,1,1.0
+zeeshan ansari,0,0,1,1,1.0
+a k chahal,0,0,3,3,1.0
+naveen,0,0,2,2,1.0
+b yeswanth,0,4,12,16,0.75
+r d chahar,0,1,3,4,0.75
+vipraj nigam,0,1,3,4,0.75
+d l chahar,0,1,3,4,0.75
+karan,0,1,2,3,0.6666666666666666
+j singh,0,2,4,6,0.6666666666666666
+a chaudhary,0,1,2,3,0.6666666666666666
+neel,0,1,2,3,0.6666666666666666
+champion,4,10,38,52,0.6538461538461539
+abdul samad,0,2,3,5,0.6
+rajat patidar,0,2,3,5,0.6
+manish pandey,0,3,4,7,0.5714285714285714
+b sai sudharsan,0,4,5,9,0.5555555555555556
+ayush mhatre,1,6,11,18,0.5555555555555556
+shardul thakur,0,2,2,4,0.5
+rebi,0,1,1,2,0.5
+sam konstas,0,1,1,2,0.5
+shashank singh,0,3,3,6,0.5
+sarfaraz,0,1,1,2,0.5
+tempol,0,1,1,2,0.5
+rinku singh,0,1,1,2,0.5
+shen patel,0,1,1,2,0.5
+sachin baby,0,1,1,2,0.5
+priyansh arya,1,2,5,8,0.5
+harshdeep singh,0,2,2,4,0.5
+naman dhir,0,2,2,4,0.5
+mitch marsh,0,1,1,2,0.5
+angkrish raghuvanshi,0,1,1,2,0.5
+robin minz,0,1,1,2,0.5
+varun aaron,0,1,1,2,0.5
+varun,1,4,7,12,0.5
+shubhan,0,1,1,2,0.5
+ishant sharma,0,2,2,4,0.5
+prem,2,12,16,30,0.4666666666666667
+manish,1,3,5,9,0.4444444444444444
+nitish rana,1,6,7,14,0.42857142857142855
+sachin,3,28,26,57,0.40350877192982454
+yuzvendra chahal,1,1,3,5,0.4
+vaibhav h b,0,3,2,5,0.4
+arshdeep singh,0,3,2,5,0.4
+ishan sharma,0,3,2,5,0.4
+yuvraj,0,3,2,5,0.4
+axar patel,1,4,5,10,0.4
+sanjur,2,1,5,8,0.375
+t natarajan,1,3,4,8,0.375
+meet,3,3,8,14,0.35714285714285715
+dina,1,9,7,17,0.35294117647058826
+k sudharsan,1,13,9,23,0.34782608695652173
+dev,7,33,31,71,0.3380281690140845
+p patidar,0,2,1,3,0.3333333333333333
+y r sharma,1,2,3,6,0.3333333333333333
+piyush s,0,2,1,3,0.3333333333333333
+kuldeep sen,0,2,1,3,0.3333333333333333
+amit,1,4,4,9,0.3333333333333333
+deepam,0,4,2,6,0.3333333333333333
+karun nair,1,2,3,6,0.3333333333333333
+mukesh kumar,1,0,2,3,0.3333333333333333
+krishna,1,10,7,18,0.3333333333333333
+krish,1,17,10,28,0.32142857142857145
+r sai kishore,1,13,8,22,0.3181818181818182
+arya,2,11,9,22,0.3181818181818182
+ajay,0,9,4,13,0.3076923076923077
+shreyas iyer,3,10,10,23,0.30434782608695654
+rajan,2,3,5,10,0.3
+ansh,9,38,33,80,0.3
+s chahar,2,3,5,10,0.3
+shivam dube,1,5,4,10,0.3
+avesh khan,1,15,8,24,0.2916666666666667
+tilak varma,0,5,2,7,0.2857142857142857
+virat kohli,3,19,13,35,0.2857142857142857
+manit,1,6,4,11,0.2727272727272727
+shivam d,1,6,4,11,0.2727272727272727
+vaibhav suryavanshi,1,9,5,15,0.26666666666666666
+riyan parag,4,24,15,43,0.2558139534883721
+shubman gill,0,6,2,8,0.25
+sunny,1,1,2,4,0.25
+karman,0,3,1,4,0.25
+himan,1,1,2,4,0.25
+kartik,0,3,1,4,0.25
+arun,5,14,13,32,0.25
+glenn maxwell,0,3,1,4,0.25
+ashutosh sharma,0,3,1,4,0.25
+shangkar,0,3,1,4,0.25
+deepak,4,14,11,29,0.2413793103448276
+shah,6,58,28,92,0.2391304347826087
+simran,2,9,6,17,0.23529411764705882
+hem,139,292,308,739,0.22868741542625168
+rohit,54,279,168,501,0.2275449101796407
+rohit shah,7,20,17,44,0.22727272727272727
+rohi,54,279,167,500,0.226
+kuldeep,3,15,9,27,0.2222222222222222
+mohit sharma,8,26,20,54,0.2222222222222222
+rahul,17,39,37,93,0.21505376344086022
+raj,29,89,68,186,0.20967741935483872
+som,195,468,412,1075,0.20186046511627906
+a badrinath,1,2,2,5,0.2
+siddharth,0,4,1,5,0.2
+dhruv m,1,2,2,5,0.2
+nehal wadhera,2,8,5,15,0.2
+rishav,2,4,4,10,0.2
+m siddharth,0,4,1,5,0.2
+om,627,1776,1370,3773,0.1969255234561357
+jitesh,4,29,13,46,0.1956521739130435
+dol,3,19,9,31,0.1935483870967742
+dhruv,3,15,8,26,0.19230769230769232
+r sharma,1,15,5,21,0.19047619047619047
+surya,4,36,14,54,0.18518518518518517
+t khan,0,9,2,11,0.18181818181818182
+prithvi,1,12,4,17,0.17647058823529413
+romario,0,14,3,17,0.17647058823529413
+jay,24,112,58,194,0.17525773195876287
+aniket,4,16,9,29,0.1724137931034483
+deep,37,115,75,227,0.16740088105726872
+moji,0,5,1,6,0.16666666666666666
+vijay shankar,3,9,6,18,0.16666666666666666
+vijay r,1,3,2,6,0.16666666666666666
+anas,1,3,2,6,0.16666666666666666
+j b,2,16,6,24,0.16666666666666666
+anshul,0,5,1,6,0.16666666666666666
+rohit sharma,9,27,18,54,0.16666666666666666
+devdutt padikkal,0,5,1,6,0.16666666666666666
+m ashwin,0,5,1,6,0.16666666666666666
+ram,21,93,47,161,0.16149068322981366
+sandeep sharma,4,13,8,25,0.16
+ravi,27,58,48,133,0.15789473684210525
+prithvi shaw,1,9,3,13,0.15384615384615385
+eden,7,20,13,40,0.15
+venkatesh iyer,1,10,3,14,0.14285714285714285
+andre siddarth,0,6,1,7,0.14285714285714285
+k l rahul,1,4,2,7,0.14285714285714285
+harman,1,11,3,15,0.13333333333333333
+abhishek,13,41,23,77,0.12987012987012986
+a sharma,1,12,3,16,0.125
+arjun,2,3,3,8,0.125
+vaibhav m,2,18,5,25,0.12
+tushar,1,6,2,9,0.1111111111111111
+a raj,1,6,2,9,0.1111111111111111
+obi,4,9,6,19,0.10526315789473684
+karan sharma,2,5,3,10,0.1
+vijay,7,13,10,30,0.1
+shubham,3,5,4,12,0.08333333333333333
+sam little,3,5,4,12,0.08333333333333333
+ete,62,454,111,627,0.07814992025518341
+digvesh,8,11,10,29,0.06896551724137931
+k nithish kumar reddy,1,12,2,15,0.06666666666666667
+shashank,7,33,10,50,0.06
+abhishek sharma,3,14,4,21,0.047619047619047616
+venkatesh m,2,20,3,25,0.04
+ishan,20,58,21,99,0.010101010101010102
+parmit singh,0,2,0,2,0.0
+parth nagill,0,1,0,1,0.0
+rishabh pant,5,13,5,23,0.0
+rishabh rajput,0,1,0,1,0.0
+nich mima,0,2,0,2,0.0
+nic broes,0,3,0,3,0.0
+negi,0,2,0,2,0.0
+rishabh rana,0,1,0,1,0.0
+rahul chowdhary,0,2,0,2,0.0
+rishabh singh,0,1,0,1,0.0
+ok patkal,0,6,0,6,0.0
+rm bishnoi,0,18,0,18,0.0
+rishant kohli,0,4,0,4,0.0
+odilemba,0,1,0,1,0.0
+pvsn raju,0,1,0,1,0.0
+nehal pajni,0,1,0,1,0.0
+r b bishnoi jr,0,1,0,1,0.0
+raghav,0,1,0,1,0.0
+rishav das,0,1,0,1,0.0
+rishav gupta,0,1,0,1,0.0
+ritesh shakya,0,1,0,1,0.0
+nitesh,0,4,0,4,0.0
+r k tewatia,0,2,0,2,0.0
+ritwik roy chowdhury,0,2,0,2,0.0
+r reddy prakash,0,1,0,1,0.0
+r v kashyap,0,1,0,1,0.0
+nishant kushwah,0,1,0,1,0.0
+nikhil s,0,1,0,1,0.0
+nikhil m,0,1,0,1,0.0
+nikhil kashyap,0,1,0,1,0.0
+rishabh dhanda,0,1,0,1,0.0
+rahul rathee,0,1,0,1,0.0
+rishabh chaudhary,0,1,0,1,0.0
+p s kohli,0,4,0,4,0.0
+rakesh,0,1,0,1,0.0
+raman bishnoi,0,16,0,16,0.0
+parav singla,0,1,0,1,0.0
+ranjan,0,1,0,1,0.0
+parvez,0,1,0,1,0.0
+peter francis,0,5,0,5,0.0
+ravinderpal singh,0,1,0,1,0.0
+rawait khan,0,1,0,1,0.0
+nikhil,0,3,0,3,0.0
+raj limbani,0,1,0,1,0.0
+rehan sai,0,2,0,2,0.0
+p vignesh,0,1,0,1,0.0
+nick langford,0,1,0,1,0.0
+reshabh dipok,0,7,0,7,0.0
+prithvi raj yarra,0,3,0,3,0.0
+p rana,1,3,1,5,0.0
+piyush chawla,1,3,1,5,0.0
+nikhil kadam,0,1,0,1,0.0
+ripudaman singh godhan,0,2,0,2,0.0
+p p jaswal,0,1,0,1,0.0
+prabhsimran singh,0,1,0,1,0.0
+nikhil kanoriya,0,15,0,15,0.0
+prarabdha mishra,0,1,0,1,0.0
+rishab rizvi,0,1,0,1,0.0
+prashid akash h,0,1,0,1,0.0
+rishabh bansal,0,1,0,1,0.0
+p dewli,0,2,0,2,0.0
+prikshit kashyap,0,1,0,1,0.0
+parameeshwaran s,0,1,0,1,0.0
+a b more,0,1,0,1,0.0
+rohan kadam,0,1,0,1,0.0
+suraj kashyap,0,1,0,1,0.0
+techi dol,0,2,0,2,0.0
+tarun sharma,0,1,0,1,0.0
+tarun bisht,0,1,0,1,0.0
+tana james,0,2,0,2,0.0
+tahmeed,0,1,0,1,0.0
+swoop s bhuyan,0,1,0,1,0.0
+swastik,1,2,1,4,0.0
+swastic,0,1,0,1,0.0
+swaroop s hipparagi,0,2,0,2,0.0
+suyash sharma,0,2,0,2,0.0
+suyash s prabhudessai,0,1,0,1,0.0
+suryansh raina,0,4,0,4,0.0
+suraj vashisht,0,1,0,1,0.0
+sunil s,0,1,0,1,0.0
+rohit  d,0,2,0,2,0.0
+sunil bishnoi,0,16,0,16,0.0
+sumit nag,0,2,0,2,0.0
+sumit kushwah,0,1,0,1,0.0
+sumit kashyap,0,4,0,4,0.0
+sumit,0,2,0,2,0.0
+sukrit sharma,0,1,0,1,0.0
+sukhmeet singh,0,3,0,3,0.0
+subramanyam,0,3,0,3,0.0
+subhransu senapati,0,1,0,1,0.0
+subham singh,0,1,0,1,0.0
+subham priyadarshi,0,1,0,1,0.0
+subham naik,0,1,0,1,0.0
+subham mandal,0,1,0,1,0.0
+techi tania tara,0,2,0,2,0.0
+teja reddy,0,1,0,1,0.0
+thomas brown,0,3,0,3,0.0
+tleipuia,0,1,0,1,0.0
+yuvrajsinh shinol,0,15,0,15,0.0
+yash kadam,0,1,0,1,0.0
+yash dayal,2,9,2,13,0.0
+yash bhatia,0,1,0,1,0.0
+wilf la fontaine jackson,0,1,0,1,0.0
+warrier,0,3,0,3,0.0
+vivek vashisht,0,1,0,1,0.0
+vishvajeet mishra,0,2,0,2,0.0
+virat singh,0,1,0,1,0.0
+vipin kumar sharma,0,1,0,1,0.0
+vikrant,0,1,0,1,0.0
+vikram,0,2,0,2,0.0
+varun raj singh bisht,0,1,0,1,0.0
+vaibhav yadav,0,1,0,1,0.0
+vaibhav tehale,0,1,0,1,0.0
+vaibhav singh,0,1,0,1,0.0
+vaibhav s kalta,0,1,0,1,0.0
+vaibhav ramanuj,0,1,0,1,0.0
+vaibhav pandey,0,1,0,1,0.0
+vaibhav g arora,0,2,0,2,0.0
+vaibhav darkunde,0,1,0,1,0.0
+v s jadeja,0,2,0,2,0.0
+umran malik,0,2,0,2,0.0
+umesh yadav,0,1,0,1,0.0
+tripuresh singh,0,1,0,1,0.0
+tripurana vijay,0,1,0,1,0.0
+tom brooks,0,3,0,3,0.0
+subham chatterjee,0,2,0,2,0.0
+sridam paul,0,1,0,1,0.0
+spencer johnson,0,1,0,1,0.0
+sambit s baral,0,1,0,1,0.0
+sambhav parakh,0,1,0,1,0.0
+samarpit thakur,0,1,0,1,0.0
+sam young,0,1,0,1,0.0
+sam frankland,0,5,0,5,0.0
+sam brooks,0,3,0,3,0.0
+salman ahmed,0,2,0,2,0.0
+saksham purohit,0,2,0,2,0.0
+sahil sheikh,0,1,0,1,0.0
+sagen murmu,0,1,0,1,0.0
+sa yadav,0,1,0,1,0.0
+s r athish,0,3,0,3,0.0
+s i sopariya,0,1,0,1,0.0
+s akhil,0,2,0,2,0.0
+s a saran,0,1,0,1,0.0
+ryan brown,0,3,0,3,0.0
+rp yadav,0,1,0,1,0.0
+rp garg,0,1,0,1,0.0
+roshan topno,0,16,0,16,0.0
+roshan,1,6,1,8,0.0
+ronit more,0,2,0,2,0.0
+rohit v binkar,0,2,0,2,0.0
+rohit singh rajawat,0,2,0,2,0.0
+rohit sen,0,2,0,2,0.0
+rohit ram,0,2,0,2,0.0
+rohit kumar,0,2,0,2,0.0
+rohit ghosh,0,2,0,2,0.0
+rohit dwivedi,0,2,0,2,0.0
+sambit kumar sahoo,0,1,0,1,0.0
+sameer rizvi,0,10,0,10,0.0
+soutrik das,0,10,0,10,0.0
+sanju samson,2,4,2,8,0.0
+somokanta,0,6,0,6,0.0
+somen mahanti,0,2,0,2,0.0
+sohan jaif,0,1,0,1,0.0
+snehal kauthankar,0,1,0,1,0.0
+smaran r,0,1,0,1,0.0
+simarjeet singh,0,1,0,1,0.0
+shuhel ansari,0,2,0,2,0.0
+shubham lamba,0,1,0,1,0.0
+shubham kushwah,0,1,0,1,0.0
+shreyas gopal,0,2,0,2,0.0
+shreshth yadav,0,1,0,1,0.0
+shobhit sharma,0,1,0,1,0.0
+shlok,0,6,0,6,0.0
+sheiteendra,0,1,0,1,0.0
+shehzor diwan,0,3,0,3,0.0
+shashank lokesh,0,6,0,6,0.0
+seta,0,1,0,1,0.0
+senglong rongpi,0,1,0,1,0.0
+sehbaaz singh,0,2,0,2,0.0
+scott howard,0,2,0,2,0.0
+saurav mousum dihingia,0,1,0,1,0.0
+saurav dey,0,1,0,1,0.0
+saurav,0,2,0,2,0.0
+saurabh verma,0,1,0,1,0.0
+saransh surana,0,1,0,1,0.0
+saransh jain,0,1,0,1,0.0
+neel pandya,0,1,0,1,0.0
+saranga rajaguru,0,1,0,1,0.0
+manav vashisht,0,1,0,1,0.0
+natha shehbaj,0,3,0,3,0.0
+divij mehra,0,4,0,4,0.0
+dipender kush,0,1,0,1,0.0
+dip borah,0,1,0,1,0.0
+dhruva rajesh bhatti,0,1,0,1,0.0
+deven,2,1,2,5,0.0
+deepak jagbir hooda,0,1,0,1,0.0
+debopratim halder,0,1,0,1,0.0
+dane johnson,0,1,0,1,0.0
+damandeep singh,0,1,0,1,0.0
+daaryoush ahmed,0,1,0,1,0.0
+christopher hewison,0,1,0,1,0.0
+christopher garrard,0,1,0,1,0.0
+chetan sharma,0,1,0,1,0.0
+charlie brain,0,3,0,3,0.0
+brody couch,0,3,0,3,0.0
+bora,0,4,0,4,0.0
+boopathi vaishna kumar m,0,1,0,1,0.0
+bipin,0,1,0,1,0.0
+bhuvneshwar kumar,0,1,0,1,0.0
+bhushan subba,0,1,0,1,0.0
+bhim,0,1,0,1,0.0
+bhavishya bhavesh patel,0,1,0,1,0.0
+bhavan,0,1,0,1,0.0
+bhargav nandi,0,1,0,1,0.0
+bhargav bhatt,0,1,0,1,0.0
+bhagyarajsinh chudasama,0,1,0,1,0.0
+ben seabrook,0,3,0,3,0.0
+bamyibe npanme,0,1,0,1,0.0
+b chungya,0,2,0,2,0.0
+aviraj singh gill,0,1,0,1,0.0
+dipjyoti saikia,0,1,0,1,0.0
+divyapratap,0,1,0,1,0.0
+harry matthias,0,3,0,3,0.0
+dominic brown,0,3,0,3,0.0
+harry conway,0,3,0,3,0.0
+harpreet brar,1,2,1,4,0.0
+harnoor singh,0,15,0,15,0.0
+harman malik,0,1,0,1,0.0
+hardik chowdhry,0,2,0,2,0.0
+hage tama,0,1,0,1,0.0
+h a walunj,0,1,0,1,0.0
+gurjapneet,0,2,0,2,0.0
+gsp teja,0,3,0,3,0.0
+nara weshi,0,2,0,2,0.0
+girraj sharma,0,3,0,3,0.0
+george politis,0,1,0,1,0.0
+gavineal marpna,0,1,0,1,0.0
+gauravdeep singh gill,0,2,0,2,0.0
+gaurav sabharwal,0,1,0,1,0.0
+gaurav mehra,0,3,0,3,0.0
+gaurav chaturvedi,0,1,0,1,0.0
+gaurang,0,1,0,1,0.0
+g sumith,0,4,0,4,0.0
+g rithish reddy,0,3,0,3,0.0
+freddie doorbar,0,5,0,5,0.0
+fred egleston,0,5,0,5,0.0
+fraser hawkins,0,5,0,5,0.0
+fazil  rashid,0,1,0,1,0.0
+eshwar,0,1,0,1,0.0
+ed smith,0,3,0,3,0.0
+e dharani kumar,0,3,0,3,0.0
+dvs sriram,0,4,0,4,0.0
+dushyant kachhawaha,0,1,0,1,0.0
+avinash rai,0,1,0,1,0.0
+avinash,0,1,0,1,0.0
+atif bin mushtaq,0,2,0,2,0.0
+athif bin ashraf,0,1,0,1,0.0
+ali ahmed,0,2,0,2,0.0
+albert,0,1,0,1,0.0
+al bashid,0,1,0,1,0.0
+akula vijay,0,4,0,4,0.0
+aksh deep nath,0,1,0,1,0.0
+akash deep,0,1,0,1,0.0
+ajay singh,0,1,0,1,0.0
+aditya yadav,0,1,0,1,0.0
+aditya vinod giri,0,15,0,15,0.0
+adam tillcock,0,1,0,1,0.0
+adam london,0,1,0,1,0.0
+abishek,0,3,0,3,0.0
+abir kohli,0,4,0,4,0.0
+abid mushtaq,0,1,0,1,0.0
+abhishek thakur,0,2,0,2,0.0
+abhishek singh,0,1,0,1,0.0
+abhinav manohar,1,17,1,19,0.0
+abhimanyu,0,1,0,1,0.0
+abdullah tahir,0,1,0,1,0.0
+abdul waseem,0,1,0,1,0.0
+abdul rehman,0,1,0,1,0.0
+abdul bazith p a,0,1,0,1,0.0
+abdul anas khan,0,1,0,1,0.0
+abdul ajij kuraishi,0,1,0,1,0.0
+aaradhya yadav,0,1,0,1,0.0
+a sasank srivats,0,5,0,5,0.0
+a r nishad,0,1,0,1,0.0
+a p vashisht,0,1,0,1,0.0
+a lalith mohan,0,1,0,1,0.0
+alok kumar,0,7,0,7,0.0
+aman meena,0,1,0,1,0.0
+amarjeet singh,0,1,0,1,0.0
+arpit n guleria,0,1,0,1,0.0
+asif washimul haque,0,1,0,1,0.0
+asif iqubal,0,1,0,1,0.0
+asif ali,0,1,0,1,0.0
+ashley jeffrey,0,5,0,5,0.0
+aseem kohli,0,4,0,4,0.0
+aryan malik,0,1,0,1,0.0
+aryan kushwah,0,1,0,1,0.0
+aryan chavda,0,1,0,1,0.0
+aryan,1,3,1,5,0.0
+aryadevsinh vaghela,0,1,0,1,0.0
+arpit subhas,0,1,0,1,0.0
+arpit singh,0,1,0,1,0.0
+arpit rana,0,1,0,1,0.0
+arpit,0,1,0,1,0.0
+ambrish kumar singh,0,1,0,1,0.0
+arpan walia,0,1,0,1,0.0
+arjun venugopal,0,1,0,1,0.0
+arjun ingle,0,1,0,1,0.0
+arjun eranna sakrola,0,1,0,1,0.0
+arindam barman,0,1,0,1,0.0
+anuj rawat,0,1,0,1,0.0
+anubhav,0,1,0,1,0.0
+anshul kamboj,1,3,1,5,0.0
+ankit,0,1,0,1,0.0
+animesh kumar,0,2,0,2,0.0
+andrew,0,3,0,3,0.0
+anandh bhowmik,0,2,0,2,0.0
+amit kumar sharma,0,1,0,1,0.0
+harry dhaliwal,0,3,0,3,0.0
+gopal kumar kamti,0,1,0,1,0.0
+harry nielsen,0,3,0,3,0.0
+kashyap bakle,0,1,0,1,0.0
+m prasidh,0,3,0,3,0.0
+m mohammed,0,1,0,1,0.0
+m lekhaz,0,2,0,2,0.0
+m hemanth reddy,0,1,0,1,0.0
+m d jaiswal,0,1,0,1,0.0
+m abhinav,0,3,0,3,0.0
+m a sharma,0,2,0,2,0.0
+lunthu martin,0,1,0,1,0.0
+lokesh kumar,0,6,0,6,0.0
+lokesh g chauhan,0,6,0,6,0.0
+lokendra singh rathore,0,6,0,6,0.0
+likha tayam,0,1,0,1,0.0
+liam blackford,0,1,0,1,0.0
+lerry,0,3,0,3,0.0
+langlonyamba m,0,1,0,1,0.0
+lalit yadav,0,2,0,2,0.0
+lalit kumar,0,1,0,1,0.0
+lakshyajeet p,0,1,0,1,0.0
+lakshay sehrawat,0,2,0,2,0.0
+kuldeep singh yadav,0,1,0,1,0.0
+kuldeep chouhan,0,1,0,1,0.0
+kritagya k k singh,0,1,0,1,0.0
+kivnoor singh,0,15,0,15,0.0
+khurram reja khan,0,3,0,3,0.0
+kevin mehta,0,4,0,4,0.0
+kevin christopher,0,2,0,2,0.0
+kazi junaid saifi,0,1,0,1,0.0
+kaushal s tambe,0,1,0,1,0.0
+kaushal hattangadi,0,1,0,1,0.0
+m ravi kiran,0,2,0,2,0.0
+m s bhandage,0,1,0,1,0.0
+m s rathee,0,1,0,1,0.0
+mohammad afreedi,0,5,0,5,0.0
+naman gaurav,0,1,0,1,0.0
+nabam india,0,1,0,1,0.0
+n jagadeesan,0,1,0,1,0.0
+musaif ajaz,0,1,0,1,0.0
+mukesh,2,13,2,17,0.0
+mujtaba yousuf,0,1,0,1,0.0
+muhammed kaif,0,1,0,1,0.0
+muhammad hassan hameed,0,1,0,1,0.0
+mridul p surroch,0,3,0,3,0.0
+money grewal,0,4,0,4,0.0
+mohit,5,13,5,23,0.0
+mohd abdul adnan,0,1,0,1,0.0
+mohammed waseef mukadam,0,1,0,1,0.0
+mit mangukiya,0,2,0,2,0.0
+m sai pratheek,0,1,0,1,0.0
+mindu tsering,0,2,0,2,0.0
+milind mondal,0,2,0,2,0.0
+mehul v pathania,0,2,0,2,0.0
+meet g,0,1,0,1,0.0
+meet bhavsar,0,2,0,2,0.0
+md saif,0,1,0,1,0.0
+md arif,0,1,0,1,0.0
+mann bhatt,0,1,0,1,0.0
+manishi,1,1,1,3,0.0
+manan vohra,0,1,0,1,0.0
+manan bhatt,0,1,0,1,0.0
+mahesh pithiya,0,1,0,1,0.0
+m v bhavendra reddy,0,1,0,1,0.0
+kashyap suva,0,1,0,1,0.0
+krains fuletra,0,3,0,3,0.0
+kartik tyagi,0,1,0,1,0.0
+k revanth reddy,0,3,0,3,0.0
+jotin pheiroijam,0,1,0,1,0.0
+joshua brown,0,3,0,3,0.0
+josh little,0,1,0,1,0.0
+johnson,0,1,0,1,0.0
+joe seager,0,1,0,1,0.0
+jitumoni kalita,0,1,0,1,0.0
+jhathavedh subramanyan,0,1,0,1,0.0
+jayanta bhattacharajee,0,1,0,1,0.0
+jayant tambi,0,1,0,1,0.0
+jay bhavsar,0,1,0,1,0.0
+jatin vashisht,0,3,0,3,0.0
+jaskirat singh mehra,0,4,0,4,0.0
+james southgate,0,10,0,10,0.0
+james green,0,1,0,1,0.0
+jake fraser-mcgurk,0,5,0,5,0.0
+jairam kasyap,0,1,0,1,0.0
+jahir ahammed,0,2,0,2,0.0
+j unadkat,0,1,0,1,0.0
+j k bhatt,0,1,0,1,0.0
+ishan chopra,0,1,0,1,0.0
+ishan afridi,0,5,0,5,0.0
+hritik,0,1,0,1,0.0
+hrithik shokeen,0,6,0,6,0.0
+hitesh,0,4,0,4,0.0
+henil patel,0,1,0,1,0.0
+harsha vardhan,0,3,0,3,0.0
+harsh tanna,0,1,0,1,0.0
+k nikhileshwar,0,7,0,7,0.0
+jaymeet patel,0,1,0,1,0.0
+ziyad zaman,0,1,0,1,0.0
+karl brown,0,3,0,3,0.0
+kartik bhatt,0,1,0,1,0.0
+kamlesh nagarkoti,0,1,0,1,0.0
+karn sharma,2,7,2,11,0.0
+kanhaiya bhatt,0,1,0,1,0.0
+karan kannan,0,1,0,1,0.0
+karan lamba,0,1,0,1,0.0
+kamal,0,1,0,1,0.0
+karn kashyap,0,1,0,1,0.0
+k rohit rayudu,0,1,0,1,0.0
+k t marathe,0,1,0,1,0.0
+k s s jayanth,0,6,0,6,0.0
+k s raju,0,4,0,4,0.0
+kamsha yangfo,0,1,0,1,0.0
+harsh,27,46,21,94,-0.06382978723404255
+travis head,8,14,5,27,-0.1111111111111111
+bharat,1,6,0,7,-0.14285714285714285
+badal,1,5,0,6,-0.16666666666666666
+shahrukh khan,1,4,0,5,-0.2
+josh inglis,1,4,0,5,-0.2
+harish,3,11,0,14,-0.21428571428571427
+mohammed shami,1,3,0,4,-0.25
+aryan yadav,1,3,0,4,-0.25
+mayank agarawal,2,1,1,4,-0.25
+ashwani kumar,2,5,0,7,-0.2857142857142857
+b sachin,1,2,0,3,-0.3333333333333333
+n yadav,2,4,0,6,-0.3333333333333333
+ajinkya rahane,1,2,0,3,-0.3333333333333333
+d a jadeja,1,2,0,3,-0.3333333333333333
+mayank yadav,1,2,0,3,-0.3333333333333333
+k s bharat,1,2,0,3,-0.3333333333333333
+harshit,13,8,4,25,-0.36
+nitish reddy,4,2,1,7,-0.42857142857142855
+ravinder,1,1,0,2,-0.5
+aravind,1,1,0,2,-0.5
+akshit rana,10,3,2,15,-0.5333333333333333
+harshit rana,10,3,2,15,-0.5333333333333333
+harshit m,3,2,0,5,-0.6
+annam takshith rao,2,1,0,3,-0.6666666666666666
+shivam mavi,1,0,0,1,-1.0
+lincon,1,0,0,1,-1.0
+harsh nanda,1,0,0,1,-1.0
+aatrey,1,0,0,1,-1.0
+david moody,1,0,0,1,-1.0
+harshit dubey,2,0,0,2,-1.0
+xavier bartlett,1,0,0,1,-1.0
+rishit n thakur,2,0,0,2,-1.0
+washington sundar,1,0,0,1,-1.0
+harshit yadav,2,0,0,2,-1.0
+akarsh,1,0,0,1,-1.0
+tim jackson,1,0,0,1,-1.0
+david clarke,1,0,0,1,-1.0
+gautam,1,0,0,1,-1.0
+aditya,1,0,0,1,-1.0
+aditya tare,1,0,0,1,-1.0
+akshit r kanwar,2,0,0,2,-1.0
+kshitij patil,2,0,0,2,-1.0
+rishith reddy,2,0,0,2,-1.0
