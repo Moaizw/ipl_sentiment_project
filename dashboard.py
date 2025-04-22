@@ -6,7 +6,7 @@ st.set_page_config(page_title="IPL Player Sentiment Dashboard", layout="wide")
 
 # Title
 st.title("🏏 IPL Player Sentiment Leaderboard")
-st.caption("Sentiment analysis of Reddit posts and comments using VADER + RoBERTa")
+st.caption("Ranking youth cricket players based on how often they're mentioned and how positively they're talked about on Reddit")
 
 # Load and cache the data
 @st.cache_data
