@@ -1,660 +1,978 @@
-mentioned_players,negative,neutral,positive,total_mentions,sentiment_score
-lucky farman khan,0,0,2,2,1.0
-aniket pande,0,0,1,1,1.0
-tom hope,0,0,1,1,1.0
-p n jadeja,0,0,1,1,1.0
-thankhuma,0,0,8,8,1.0
-arjun tendulkar,0,0,2,2,1.0
-manthan r upadhyay,0,0,2,2,1.0
-suryansh shedge,0,0,1,1,1.0
-parthiv jayesh,0,0,12,12,1.0
-ashutosh singh,0,0,1,1,1.0
-atharva taide,0,0,1,1,1.0
-madhwal a,0,0,2,2,1.0
-priyesh,0,0,12,12,1.0
-stephen,0,0,2,2,1.0
-bhavyesh donga,0,0,12,12,1.0
-puneet chahal,0,0,3,3,1.0
-luckyraj,0,0,2,2,1.0
-binny,0,0,1,1,1.0
-r a tripathi,0,0,1,1,1.0
-kunal sarma,0,0,1,1,1.0
-shashank upadhyay,0,0,2,2,1.0
-emanjot singh chahal,0,0,3,3,1.0
-krish shahapurkar,0,0,3,3,1.0
-saroj,0,0,1,1,1.0
-george cave,0,0,1,1,1.0
-kirtivardhan upadhyay,0,0,2,2,1.0
-reshi,0,0,2,2,1.0
-rohit singh,0,0,1,1,1.0
-jayden goodwin,0,0,2,2,1.0
-aniket verma,0,0,2,2,1.0
-joshua,0,0,2,2,1.0
-yuvraj singh,0,0,1,1,1.0
-zeeshan ansari,0,0,1,1,1.0
-a k chahal,0,0,3,3,1.0
-naveen,0,0,2,2,1.0
-b yeswanth,0,4,12,16,0.75
-r d chahar,0,1,3,4,0.75
-vipraj nigam,0,1,3,4,0.75
-d l chahar,0,1,3,4,0.75
-karan,0,1,2,3,0.6666666666666666
-j singh,0,2,4,6,0.6666666666666666
-a chaudhary,0,1,2,3,0.6666666666666666
-neel,0,1,2,3,0.6666666666666666
-champion,4,10,38,52,0.6538461538461539
-abdul samad,0,2,3,5,0.6
-rajat patidar,0,2,3,5,0.6
-manish pandey,0,3,4,7,0.5714285714285714
-b sai sudharsan,0,4,5,9,0.5555555555555556
-ayush mhatre,1,6,11,18,0.5555555555555556
-shardul thakur,0,2,2,4,0.5
-rebi,0,1,1,2,0.5
-sam konstas,0,1,1,2,0.5
-shashank singh,0,3,3,6,0.5
-sarfaraz,0,1,1,2,0.5
-tempol,0,1,1,2,0.5
-rinku singh,0,1,1,2,0.5
-shen patel,0,1,1,2,0.5
-sachin baby,0,1,1,2,0.5
-priyansh arya,1,2,5,8,0.5
-harshdeep singh,0,2,2,4,0.5
-naman dhir,0,2,2,4,0.5
-mitch marsh,0,1,1,2,0.5
-angkrish raghuvanshi,0,1,1,2,0.5
-robin minz,0,1,1,2,0.5
-varun aaron,0,1,1,2,0.5
-varun,1,4,7,12,0.5
-shubhan,0,1,1,2,0.5
-ishant sharma,0,2,2,4,0.5
-prem,2,12,16,30,0.4666666666666667
-manish,1,3,5,9,0.4444444444444444
-nitish rana,1,6,7,14,0.42857142857142855
-sachin,3,28,26,57,0.40350877192982454
-yuzvendra chahal,1,1,3,5,0.4
-vaibhav h b,0,3,2,5,0.4
-arshdeep singh,0,3,2,5,0.4
-ishan sharma,0,3,2,5,0.4
-yuvraj,0,3,2,5,0.4
-axar patel,1,4,5,10,0.4
-sanjur,2,1,5,8,0.375
-t natarajan,1,3,4,8,0.375
-meet,3,3,8,14,0.35714285714285715
-dina,1,9,7,17,0.35294117647058826
-k sudharsan,1,13,9,23,0.34782608695652173
-dev,7,33,31,71,0.3380281690140845
-p patidar,0,2,1,3,0.3333333333333333
-y r sharma,1,2,3,6,0.3333333333333333
-piyush s,0,2,1,3,0.3333333333333333
-kuldeep sen,0,2,1,3,0.3333333333333333
-amit,1,4,4,9,0.3333333333333333
-deepam,0,4,2,6,0.3333333333333333
-karun nair,1,2,3,6,0.3333333333333333
-mukesh kumar,1,0,2,3,0.3333333333333333
-krishna,1,10,7,18,0.3333333333333333
-krish,1,17,10,28,0.32142857142857145
-r sai kishore,1,13,8,22,0.3181818181818182
-arya,2,11,9,22,0.3181818181818182
-ajay,0,9,4,13,0.3076923076923077
-shreyas iyer,3,10,10,23,0.30434782608695654
-rajan,2,3,5,10,0.3
-ansh,9,38,33,80,0.3
-s chahar,2,3,5,10,0.3
-shivam dube,1,5,4,10,0.3
-avesh khan,1,15,8,24,0.2916666666666667
-tilak varma,0,5,2,7,0.2857142857142857
-virat kohli,3,19,13,35,0.2857142857142857
-manit,1,6,4,11,0.2727272727272727
-shivam d,1,6,4,11,0.2727272727272727
-vaibhav suryavanshi,1,9,5,15,0.26666666666666666
-riyan parag,4,24,15,43,0.2558139534883721
-shubman gill,0,6,2,8,0.25
-sunny,1,1,2,4,0.25
-karman,0,3,1,4,0.25
-himan,1,1,2,4,0.25
-kartik,0,3,1,4,0.25
-arun,5,14,13,32,0.25
-glenn maxwell,0,3,1,4,0.25
-ashutosh sharma,0,3,1,4,0.25
-shangkar,0,3,1,4,0.25
-deepak,4,14,11,29,0.2413793103448276
-shah,6,58,28,92,0.2391304347826087
-simran,2,9,6,17,0.23529411764705882
-hem,139,292,308,739,0.22868741542625168
-rohit,54,279,168,501,0.2275449101796407
-rohit shah,7,20,17,44,0.22727272727272727
-rohi,54,279,167,500,0.226
-kuldeep,3,15,9,27,0.2222222222222222
-mohit sharma,8,26,20,54,0.2222222222222222
-rahul,17,39,37,93,0.21505376344086022
-raj,29,89,68,186,0.20967741935483872
-som,195,468,412,1075,0.20186046511627906
-a badrinath,1,2,2,5,0.2
-siddharth,0,4,1,5,0.2
-dhruv m,1,2,2,5,0.2
-nehal wadhera,2,8,5,15,0.2
-rishav,2,4,4,10,0.2
-m siddharth,0,4,1,5,0.2
-om,627,1776,1370,3773,0.1969255234561357
-jitesh,4,29,13,46,0.1956521739130435
-dol,3,19,9,31,0.1935483870967742
-dhruv,3,15,8,26,0.19230769230769232
-r sharma,1,15,5,21,0.19047619047619047
-surya,4,36,14,54,0.18518518518518517
-t khan,0,9,2,11,0.18181818181818182
-prithvi,1,12,4,17,0.17647058823529413
-romario,0,14,3,17,0.17647058823529413
-jay,24,112,58,194,0.17525773195876287
-aniket,4,16,9,29,0.1724137931034483
-deep,37,115,75,227,0.16740088105726872
-moji,0,5,1,6,0.16666666666666666
-vijay shankar,3,9,6,18,0.16666666666666666
-vijay r,1,3,2,6,0.16666666666666666
-anas,1,3,2,6,0.16666666666666666
-j b,2,16,6,24,0.16666666666666666
-anshul,0,5,1,6,0.16666666666666666
-rohit sharma,9,27,18,54,0.16666666666666666
-devdutt padikkal,0,5,1,6,0.16666666666666666
-m ashwin,0,5,1,6,0.16666666666666666
-ram,21,93,47,161,0.16149068322981366
-sandeep sharma,4,13,8,25,0.16
-ravi,27,58,48,133,0.15789473684210525
-prithvi shaw,1,9,3,13,0.15384615384615385
-eden,7,20,13,40,0.15
-venkatesh iyer,1,10,3,14,0.14285714285714285
-andre siddarth,0,6,1,7,0.14285714285714285
-k l rahul,1,4,2,7,0.14285714285714285
-harman,1,11,3,15,0.13333333333333333
-abhishek,13,41,23,77,0.12987012987012986
-a sharma,1,12,3,16,0.125
-arjun,2,3,3,8,0.125
-vaibhav m,2,18,5,25,0.12
-tushar,1,6,2,9,0.1111111111111111
-a raj,1,6,2,9,0.1111111111111111
-obi,4,9,6,19,0.10526315789473684
-karan sharma,2,5,3,10,0.1
-vijay,7,13,10,30,0.1
-shubham,3,5,4,12,0.08333333333333333
-sam little,3,5,4,12,0.08333333333333333
-ete,62,454,111,627,0.07814992025518341
-digvesh,8,11,10,29,0.06896551724137931
-k nithish kumar reddy,1,12,2,15,0.06666666666666667
-shashank,7,33,10,50,0.06
-abhishek sharma,3,14,4,21,0.047619047619047616
-venkatesh m,2,20,3,25,0.04
-ishan,20,58,21,99,0.010101010101010102
-parmit singh,0,2,0,2,0.0
-parth nagill,0,1,0,1,0.0
-rishabh pant,5,13,5,23,0.0
-rishabh rajput,0,1,0,1,0.0
-nich mima,0,2,0,2,0.0
-nic broes,0,3,0,3,0.0
-negi,0,2,0,2,0.0
-rishabh rana,0,1,0,1,0.0
-rahul chowdhary,0,2,0,2,0.0
-rishabh singh,0,1,0,1,0.0
-ok patkal,0,6,0,6,0.0
-rm bishnoi,0,18,0,18,0.0
-rishant kohli,0,4,0,4,0.0
-odilemba,0,1,0,1,0.0
-pvsn raju,0,1,0,1,0.0
-nehal pajni,0,1,0,1,0.0
-r b bishnoi jr,0,1,0,1,0.0
-raghav,0,1,0,1,0.0
-rishav das,0,1,0,1,0.0
-rishav gupta,0,1,0,1,0.0
-ritesh shakya,0,1,0,1,0.0
-nitesh,0,4,0,4,0.0
-r k tewatia,0,2,0,2,0.0
-ritwik roy chowdhury,0,2,0,2,0.0
-r reddy prakash,0,1,0,1,0.0
-r v kashyap,0,1,0,1,0.0
-nishant kushwah,0,1,0,1,0.0
-nikhil s,0,1,0,1,0.0
-nikhil m,0,1,0,1,0.0
-nikhil kashyap,0,1,0,1,0.0
-rishabh dhanda,0,1,0,1,0.0
-rahul rathee,0,1,0,1,0.0
-rishabh chaudhary,0,1,0,1,0.0
-p s kohli,0,4,0,4,0.0
-rakesh,0,1,0,1,0.0
-raman bishnoi,0,16,0,16,0.0
-parav singla,0,1,0,1,0.0
-ranjan,0,1,0,1,0.0
-parvez,0,1,0,1,0.0
-peter francis,0,5,0,5,0.0
-ravinderpal singh,0,1,0,1,0.0
-rawait khan,0,1,0,1,0.0
-nikhil,0,3,0,3,0.0
-raj limbani,0,1,0,1,0.0
-rehan sai,0,2,0,2,0.0
-p vignesh,0,1,0,1,0.0
-nick langford,0,1,0,1,0.0
-reshabh dipok,0,7,0,7,0.0
-prithvi raj yarra,0,3,0,3,0.0
-p rana,1,3,1,5,0.0
-piyush chawla,1,3,1,5,0.0
-nikhil kadam,0,1,0,1,0.0
-ripudaman singh godhan,0,2,0,2,0.0
-p p jaswal,0,1,0,1,0.0
-prabhsimran singh,0,1,0,1,0.0
-nikhil kanoriya,0,15,0,15,0.0
-prarabdha mishra,0,1,0,1,0.0
-rishab rizvi,0,1,0,1,0.0
-prashid akash h,0,1,0,1,0.0
-rishabh bansal,0,1,0,1,0.0
-p dewli,0,2,0,2,0.0
-prikshit kashyap,0,1,0,1,0.0
-parameeshwaran s,0,1,0,1,0.0
-a b more,0,1,0,1,0.0
-rohan kadam,0,1,0,1,0.0
-suraj kashyap,0,1,0,1,0.0
-techi dol,0,2,0,2,0.0
-tarun sharma,0,1,0,1,0.0
-tarun bisht,0,1,0,1,0.0
-tana james,0,2,0,2,0.0
-tahmeed,0,1,0,1,0.0
-swoop s bhuyan,0,1,0,1,0.0
-swastik,1,2,1,4,0.0
-swastic,0,1,0,1,0.0
-swaroop s hipparagi,0,2,0,2,0.0
-suyash sharma,0,2,0,2,0.0
-suyash s prabhudessai,0,1,0,1,0.0
-suryansh raina,0,4,0,4,0.0
-suraj vashisht,0,1,0,1,0.0
-sunil s,0,1,0,1,0.0
-rohit  d,0,2,0,2,0.0
-sunil bishnoi,0,16,0,16,0.0
-sumit nag,0,2,0,2,0.0
-sumit kushwah,0,1,0,1,0.0
-sumit kashyap,0,4,0,4,0.0
-sumit,0,2,0,2,0.0
-sukrit sharma,0,1,0,1,0.0
-sukhmeet singh,0,3,0,3,0.0
-subramanyam,0,3,0,3,0.0
-subhransu senapati,0,1,0,1,0.0
-subham singh,0,1,0,1,0.0
-subham priyadarshi,0,1,0,1,0.0
-subham naik,0,1,0,1,0.0
-subham mandal,0,1,0,1,0.0
-techi tania tara,0,2,0,2,0.0
-teja reddy,0,1,0,1,0.0
-thomas brown,0,3,0,3,0.0
-tleipuia,0,1,0,1,0.0
-yuvrajsinh shinol,0,15,0,15,0.0
-yash kadam,0,1,0,1,0.0
-yash dayal,2,9,2,13,0.0
-yash bhatia,0,1,0,1,0.0
-wilf la fontaine jackson,0,1,0,1,0.0
-warrier,0,3,0,3,0.0
-vivek vashisht,0,1,0,1,0.0
-vishvajeet mishra,0,2,0,2,0.0
-virat singh,0,1,0,1,0.0
-vipin kumar sharma,0,1,0,1,0.0
-vikrant,0,1,0,1,0.0
-vikram,0,2,0,2,0.0
-varun raj singh bisht,0,1,0,1,0.0
-vaibhav yadav,0,1,0,1,0.0
-vaibhav tehale,0,1,0,1,0.0
-vaibhav singh,0,1,0,1,0.0
-vaibhav s kalta,0,1,0,1,0.0
-vaibhav ramanuj,0,1,0,1,0.0
-vaibhav pandey,0,1,0,1,0.0
-vaibhav g arora,0,2,0,2,0.0
-vaibhav darkunde,0,1,0,1,0.0
-v s jadeja,0,2,0,2,0.0
-umran malik,0,2,0,2,0.0
-umesh yadav,0,1,0,1,0.0
-tripuresh singh,0,1,0,1,0.0
-tripurana vijay,0,1,0,1,0.0
-tom brooks,0,3,0,3,0.0
-subham chatterjee,0,2,0,2,0.0
-sridam paul,0,1,0,1,0.0
-spencer johnson,0,1,0,1,0.0
-sambit s baral,0,1,0,1,0.0
-sambhav parakh,0,1,0,1,0.0
-samarpit thakur,0,1,0,1,0.0
-sam young,0,1,0,1,0.0
-sam frankland,0,5,0,5,0.0
-sam brooks,0,3,0,3,0.0
-salman ahmed,0,2,0,2,0.0
-saksham purohit,0,2,0,2,0.0
-sahil sheikh,0,1,0,1,0.0
-sagen murmu,0,1,0,1,0.0
-sa yadav,0,1,0,1,0.0
-s r athish,0,3,0,3,0.0
-s i sopariya,0,1,0,1,0.0
-s akhil,0,2,0,2,0.0
-s a saran,0,1,0,1,0.0
-ryan brown,0,3,0,3,0.0
-rp yadav,0,1,0,1,0.0
-rp garg,0,1,0,1,0.0
-roshan topno,0,16,0,16,0.0
-roshan,1,6,1,8,0.0
-ronit more,0,2,0,2,0.0
-rohit v binkar,0,2,0,2,0.0
-rohit singh rajawat,0,2,0,2,0.0
-rohit sen,0,2,0,2,0.0
-rohit ram,0,2,0,2,0.0
-rohit kumar,0,2,0,2,0.0
-rohit ghosh,0,2,0,2,0.0
-rohit dwivedi,0,2,0,2,0.0
-sambit kumar sahoo,0,1,0,1,0.0
-sameer rizvi,0,10,0,10,0.0
-soutrik das,0,10,0,10,0.0
-sanju samson,2,4,2,8,0.0
-somokanta,0,6,0,6,0.0
-somen mahanti,0,2,0,2,0.0
-sohan jaif,0,1,0,1,0.0
-snehal kauthankar,0,1,0,1,0.0
-smaran r,0,1,0,1,0.0
-simarjeet singh,0,1,0,1,0.0
-shuhel ansari,0,2,0,2,0.0
-shubham lamba,0,1,0,1,0.0
-shubham kushwah,0,1,0,1,0.0
-shreyas gopal,0,2,0,2,0.0
-shreshth yadav,0,1,0,1,0.0
-shobhit sharma,0,1,0,1,0.0
-shlok,0,6,0,6,0.0
-sheiteendra,0,1,0,1,0.0
-shehzor diwan,0,3,0,3,0.0
-shashank lokesh,0,6,0,6,0.0
-seta,0,1,0,1,0.0
-senglong rongpi,0,1,0,1,0.0
-sehbaaz singh,0,2,0,2,0.0
-scott howard,0,2,0,2,0.0
-saurav mousum dihingia,0,1,0,1,0.0
-saurav dey,0,1,0,1,0.0
-saurav,0,2,0,2,0.0
-saurabh verma,0,1,0,1,0.0
-saransh surana,0,1,0,1,0.0
-saransh jain,0,1,0,1,0.0
-neel pandya,0,1,0,1,0.0
-saranga rajaguru,0,1,0,1,0.0
-manav vashisht,0,1,0,1,0.0
-natha shehbaj,0,3,0,3,0.0
-divij mehra,0,4,0,4,0.0
-dipender kush,0,1,0,1,0.0
-dip borah,0,1,0,1,0.0
-dhruva rajesh bhatti,0,1,0,1,0.0
-deven,2,1,2,5,0.0
-deepak jagbir hooda,0,1,0,1,0.0
-debopratim halder,0,1,0,1,0.0
-dane johnson,0,1,0,1,0.0
-damandeep singh,0,1,0,1,0.0
-daaryoush ahmed,0,1,0,1,0.0
-christopher hewison,0,1,0,1,0.0
-christopher garrard,0,1,0,1,0.0
-chetan sharma,0,1,0,1,0.0
-charlie brain,0,3,0,3,0.0
-brody couch,0,3,0,3,0.0
-bora,0,4,0,4,0.0
-boopathi vaishna kumar m,0,1,0,1,0.0
-bipin,0,1,0,1,0.0
-bhuvneshwar kumar,0,1,0,1,0.0
-bhushan subba,0,1,0,1,0.0
-bhim,0,1,0,1,0.0
-bhavishya bhavesh patel,0,1,0,1,0.0
-bhavan,0,1,0,1,0.0
-bhargav nandi,0,1,0,1,0.0
-bhargav bhatt,0,1,0,1,0.0
-bhagyarajsinh chudasama,0,1,0,1,0.0
-ben seabrook,0,3,0,3,0.0
-bamyibe npanme,0,1,0,1,0.0
-b chungya,0,2,0,2,0.0
-aviraj singh gill,0,1,0,1,0.0
-dipjyoti saikia,0,1,0,1,0.0
-divyapratap,0,1,0,1,0.0
-harry matthias,0,3,0,3,0.0
-dominic brown,0,3,0,3,0.0
-harry conway,0,3,0,3,0.0
-harpreet brar,1,2,1,4,0.0
-harnoor singh,0,15,0,15,0.0
-harman malik,0,1,0,1,0.0
-hardik chowdhry,0,2,0,2,0.0
-hage tama,0,1,0,1,0.0
-h a walunj,0,1,0,1,0.0
-gurjapneet,0,2,0,2,0.0
-gsp teja,0,3,0,3,0.0
-nara weshi,0,2,0,2,0.0
-girraj sharma,0,3,0,3,0.0
-george politis,0,1,0,1,0.0
-gavineal marpna,0,1,0,1,0.0
-gauravdeep singh gill,0,2,0,2,0.0
-gaurav sabharwal,0,1,0,1,0.0
-gaurav mehra,0,3,0,3,0.0
-gaurav chaturvedi,0,1,0,1,0.0
-gaurang,0,1,0,1,0.0
-g sumith,0,4,0,4,0.0
-g rithish reddy,0,3,0,3,0.0
-freddie doorbar,0,5,0,5,0.0
-fred egleston,0,5,0,5,0.0
-fraser hawkins,0,5,0,5,0.0
-fazil  rashid,0,1,0,1,0.0
-eshwar,0,1,0,1,0.0
-ed smith,0,3,0,3,0.0
-e dharani kumar,0,3,0,3,0.0
-dvs sriram,0,4,0,4,0.0
-dushyant kachhawaha,0,1,0,1,0.0
-avinash rai,0,1,0,1,0.0
-avinash,0,1,0,1,0.0
-atif bin mushtaq,0,2,0,2,0.0
-athif bin ashraf,0,1,0,1,0.0
-ali ahmed,0,2,0,2,0.0
-albert,0,1,0,1,0.0
-al bashid,0,1,0,1,0.0
-akula vijay,0,4,0,4,0.0
-aksh deep nath,0,1,0,1,0.0
-akash deep,0,1,0,1,0.0
-ajay singh,0,1,0,1,0.0
-aditya yadav,0,1,0,1,0.0
-aditya vinod giri,0,15,0,15,0.0
-adam tillcock,0,1,0,1,0.0
-adam london,0,1,0,1,0.0
-abishek,0,3,0,3,0.0
-abir kohli,0,4,0,4,0.0
-abid mushtaq,0,1,0,1,0.0
-abhishek thakur,0,2,0,2,0.0
-abhishek singh,0,1,0,1,0.0
-abhinav manohar,1,17,1,19,0.0
-abhimanyu,0,1,0,1,0.0
-abdullah tahir,0,1,0,1,0.0
-abdul waseem,0,1,0,1,0.0
-abdul rehman,0,1,0,1,0.0
-abdul bazith p a,0,1,0,1,0.0
-abdul anas khan,0,1,0,1,0.0
-abdul ajij kuraishi,0,1,0,1,0.0
-aaradhya yadav,0,1,0,1,0.0
-a sasank srivats,0,5,0,5,0.0
-a r nishad,0,1,0,1,0.0
-a p vashisht,0,1,0,1,0.0
-a lalith mohan,0,1,0,1,0.0
-alok kumar,0,7,0,7,0.0
-aman meena,0,1,0,1,0.0
-amarjeet singh,0,1,0,1,0.0
-arpit n guleria,0,1,0,1,0.0
-asif washimul haque,0,1,0,1,0.0
-asif iqubal,0,1,0,1,0.0
-asif ali,0,1,0,1,0.0
-ashley jeffrey,0,5,0,5,0.0
-aseem kohli,0,4,0,4,0.0
-aryan malik,0,1,0,1,0.0
-aryan kushwah,0,1,0,1,0.0
-aryan chavda,0,1,0,1,0.0
-aryan,1,3,1,5,0.0
-aryadevsinh vaghela,0,1,0,1,0.0
-arpit subhas,0,1,0,1,0.0
-arpit singh,0,1,0,1,0.0
-arpit rana,0,1,0,1,0.0
-arpit,0,1,0,1,0.0
-ambrish kumar singh,0,1,0,1,0.0
-arpan walia,0,1,0,1,0.0
-arjun venugopal,0,1,0,1,0.0
-arjun ingle,0,1,0,1,0.0
-arjun eranna sakrola,0,1,0,1,0.0
-arindam barman,0,1,0,1,0.0
-anuj rawat,0,1,0,1,0.0
-anubhav,0,1,0,1,0.0
-anshul kamboj,1,3,1,5,0.0
-ankit,0,1,0,1,0.0
-animesh kumar,0,2,0,2,0.0
-andrew,0,3,0,3,0.0
-anandh bhowmik,0,2,0,2,0.0
-amit kumar sharma,0,1,0,1,0.0
-harry dhaliwal,0,3,0,3,0.0
-gopal kumar kamti,0,1,0,1,0.0
-harry nielsen,0,3,0,3,0.0
-kashyap bakle,0,1,0,1,0.0
-m prasidh,0,3,0,3,0.0
-m mohammed,0,1,0,1,0.0
-m lekhaz,0,2,0,2,0.0
-m hemanth reddy,0,1,0,1,0.0
-m d jaiswal,0,1,0,1,0.0
-m abhinav,0,3,0,3,0.0
-m a sharma,0,2,0,2,0.0
-lunthu martin,0,1,0,1,0.0
-lokesh kumar,0,6,0,6,0.0
-lokesh g chauhan,0,6,0,6,0.0
-lokendra singh rathore,0,6,0,6,0.0
-likha tayam,0,1,0,1,0.0
-liam blackford,0,1,0,1,0.0
-lerry,0,3,0,3,0.0
-langlonyamba m,0,1,0,1,0.0
-lalit yadav,0,2,0,2,0.0
-lalit kumar,0,1,0,1,0.0
-lakshyajeet p,0,1,0,1,0.0
-lakshay sehrawat,0,2,0,2,0.0
-kuldeep singh yadav,0,1,0,1,0.0
-kuldeep chouhan,0,1,0,1,0.0
-kritagya k k singh,0,1,0,1,0.0
-kivnoor singh,0,15,0,15,0.0
-khurram reja khan,0,3,0,3,0.0
-kevin mehta,0,4,0,4,0.0
-kevin christopher,0,2,0,2,0.0
-kazi junaid saifi,0,1,0,1,0.0
-kaushal s tambe,0,1,0,1,0.0
-kaushal hattangadi,0,1,0,1,0.0
-m ravi kiran,0,2,0,2,0.0
-m s bhandage,0,1,0,1,0.0
-m s rathee,0,1,0,1,0.0
-mohammad afreedi,0,5,0,5,0.0
-naman gaurav,0,1,0,1,0.0
-nabam india,0,1,0,1,0.0
-n jagadeesan,0,1,0,1,0.0
-musaif ajaz,0,1,0,1,0.0
-mukesh,2,13,2,17,0.0
-mujtaba yousuf,0,1,0,1,0.0
-muhammed kaif,0,1,0,1,0.0
-muhammad hassan hameed,0,1,0,1,0.0
-mridul p surroch,0,3,0,3,0.0
-money grewal,0,4,0,4,0.0
-mohit,5,13,5,23,0.0
-mohd abdul adnan,0,1,0,1,0.0
-mohammed waseef mukadam,0,1,0,1,0.0
-mit mangukiya,0,2,0,2,0.0
-m sai pratheek,0,1,0,1,0.0
-mindu tsering,0,2,0,2,0.0
-milind mondal,0,2,0,2,0.0
-mehul v pathania,0,2,0,2,0.0
-meet g,0,1,0,1,0.0
-meet bhavsar,0,2,0,2,0.0
-md saif,0,1,0,1,0.0
-md arif,0,1,0,1,0.0
-mann bhatt,0,1,0,1,0.0
-manishi,1,1,1,3,0.0
-manan vohra,0,1,0,1,0.0
-manan bhatt,0,1,0,1,0.0
-mahesh pithiya,0,1,0,1,0.0
-m v bhavendra reddy,0,1,0,1,0.0
-kashyap suva,0,1,0,1,0.0
-krains fuletra,0,3,0,3,0.0
-kartik tyagi,0,1,0,1,0.0
-k revanth reddy,0,3,0,3,0.0
-jotin pheiroijam,0,1,0,1,0.0
-joshua brown,0,3,0,3,0.0
-josh little,0,1,0,1,0.0
-johnson,0,1,0,1,0.0
-joe seager,0,1,0,1,0.0
-jitumoni kalita,0,1,0,1,0.0
-jhathavedh subramanyan,0,1,0,1,0.0
-jayanta bhattacharajee,0,1,0,1,0.0
-jayant tambi,0,1,0,1,0.0
-jay bhavsar,0,1,0,1,0.0
-jatin vashisht,0,3,0,3,0.0
-jaskirat singh mehra,0,4,0,4,0.0
-james southgate,0,10,0,10,0.0
-james green,0,1,0,1,0.0
-jake fraser-mcgurk,0,5,0,5,0.0
-jairam kasyap,0,1,0,1,0.0
-jahir ahammed,0,2,0,2,0.0
-j unadkat,0,1,0,1,0.0
-j k bhatt,0,1,0,1,0.0
-ishan chopra,0,1,0,1,0.0
-ishan afridi,0,5,0,5,0.0
-hritik,0,1,0,1,0.0
-hrithik shokeen,0,6,0,6,0.0
-hitesh,0,4,0,4,0.0
-henil patel,0,1,0,1,0.0
-harsha vardhan,0,3,0,3,0.0
-harsh tanna,0,1,0,1,0.0
-k nikhileshwar,0,7,0,7,0.0
-jaymeet patel,0,1,0,1,0.0
-ziyad zaman,0,1,0,1,0.0
-karl brown,0,3,0,3,0.0
-kartik bhatt,0,1,0,1,0.0
-kamlesh nagarkoti,0,1,0,1,0.0
-karn sharma,2,7,2,11,0.0
-kanhaiya bhatt,0,1,0,1,0.0
-karan kannan,0,1,0,1,0.0
-karan lamba,0,1,0,1,0.0
-kamal,0,1,0,1,0.0
-karn kashyap,0,1,0,1,0.0
-k rohit rayudu,0,1,0,1,0.0
-k t marathe,0,1,0,1,0.0
-k s s jayanth,0,6,0,6,0.0
-k s raju,0,4,0,4,0.0
-kamsha yangfo,0,1,0,1,0.0
-harsh,27,46,21,94,-0.06382978723404255
-travis head,8,14,5,27,-0.1111111111111111
-bharat,1,6,0,7,-0.14285714285714285
-badal,1,5,0,6,-0.16666666666666666
-shahrukh khan,1,4,0,5,-0.2
-josh inglis,1,4,0,5,-0.2
-harish,3,11,0,14,-0.21428571428571427
-mohammed shami,1,3,0,4,-0.25
-aryan yadav,1,3,0,4,-0.25
-mayank agarawal,2,1,1,4,-0.25
-ashwani kumar,2,5,0,7,-0.2857142857142857
-b sachin,1,2,0,3,-0.3333333333333333
-n yadav,2,4,0,6,-0.3333333333333333
-ajinkya rahane,1,2,0,3,-0.3333333333333333
-d a jadeja,1,2,0,3,-0.3333333333333333
-mayank yadav,1,2,0,3,-0.3333333333333333
-k s bharat,1,2,0,3,-0.3333333333333333
-harshit,13,8,4,25,-0.36
-nitish reddy,4,2,1,7,-0.42857142857142855
-ravinder,1,1,0,2,-0.5
-aravind,1,1,0,2,-0.5
-akshit rana,10,3,2,15,-0.5333333333333333
-harshit rana,10,3,2,15,-0.5333333333333333
-harshit m,3,2,0,5,-0.6
-annam takshith rao,2,1,0,3,-0.6666666666666666
-shivam mavi,1,0,0,1,-1.0
-lincon,1,0,0,1,-1.0
-harsh nanda,1,0,0,1,-1.0
-aatrey,1,0,0,1,-1.0
-david moody,1,0,0,1,-1.0
-harshit dubey,2,0,0,2,-1.0
-xavier bartlett,1,0,0,1,-1.0
-rishit n thakur,2,0,0,2,-1.0
-washington sundar,1,0,0,1,-1.0
-harshit yadav,2,0,0,2,-1.0
-akarsh,1,0,0,1,-1.0
-tim jackson,1,0,0,1,-1.0
-david clarke,1,0,0,1,-1.0
-gautam,1,0,0,1,-1.0
-aditya,1,0,0,1,-1.0
-aditya tare,1,0,0,1,-1.0
-akshit r kanwar,2,0,0,2,-1.0
-kshitij patil,2,0,0,2,-1.0
-rishith reddy,2,0,0,2,-1.0
+mentioned_players,Competition,Team,negative,neutral,positive,total_mentions,sentiment_score
+ashutosh singh,syed_mushtaq_ali_trophy,chhattisgarh,0,0,1,1,1.0
+zeeshan ansari,ranji_trophy,uttar pradesh,0,0,1,1,1.0
+aniket verma,syed_mushtaq_ali_trophy,madhya pradesh,0,0,2,2,1.0
+emanjot singh chahal,col_c_k_nayudu,punjab,0,0,3,3,1.0
+emanjot singh chahal,ranji_trophy,punjab,0,0,3,3,1.0
+emanjot singh chahal,syed_mushtaq_ali_trophy,punjab,0,0,3,3,1.0
+stephen,ranji_trophy,andhra,0,0,2,2,1.0
+luckyraj,syed_mushtaq_ali_trophy,saurashtra,0,0,2,2,1.0
+zeeshan ansari,syed_mushtaq_ali_trophy,uttar pradesh,0,0,1,1,1.0
+yuvraj singh,syed_mushtaq_ali_trophy,haryana,0,0,1,1,1.0
+luckyraj,ranji_trophy,saurashtra,0,0,2,2,1.0
+luckyraj,col_c_k_nayudu,saurashtra,0,0,2,2,1.0
+lucky farman khan,col_c_k_nayudu,arunachal pradesh,0,0,2,2,1.0
+shashank upadhyay,col_c_k_nayudu,bihar,0,0,2,2,1.0
+stephen,syed_mushtaq_ali_trophy,andhra,0,0,2,2,1.0
+bhavyesh donga,syed_mushtaq_ali_trophy,saurashtra,0,0,12,12,1.0
+shubhan,col_c_k_nayudu,tamil nadu,0,0,1,1,1.0
+aniket verma,ranji_trophy,madhya pradesh,0,0,2,2,1.0
+aniket verma,col_c_k_nayudu,madhya pradesh,0,0,2,2,1.0
+tom hope,ecb_club,longton,0,0,1,1,1.0
+ashutosh singh,ranji_trophy,chhattisgarh,0,0,1,1,1.0
+priyesh,col_c_k_nayudu,gujarat,0,0,12,12,1.0
+binny,ranji_trophy,bihar,0,0,1,1,1.0
+puneet chahal,syed_mushtaq_ali_trophy,delhi,0,0,3,3,1.0
+angkrish raghuvanshi,syed_mushtaq_ali_trophy,mumbai,0,0,1,1,1.0
+puneet chahal,ranji_trophy,delhi,0,0,3,3,1.0
+madhwal a,ranji_trophy,uttarakhand,0,0,2,2,1.0
+madhwal a,syed_mushtaq_ali_trophy,uttarakhand,0,0,2,2,1.0
+priyesh,syed_mushtaq_ali_trophy,gujarat,0,0,12,12,1.0
+priyesh,ranji_trophy,gujarat,0,0,12,12,1.0
+binny,syed_mushtaq_ali_trophy,bihar,0,0,1,1,1.0
+k sudharsan,syed_mushtaq_ali_trophy,andhra,0,0,1,1,1.0
+k sudharsan,ranji_trophy,andhra,0,0,1,1,1.0
+reshi,col_c_k_nayudu,sikkim,0,0,2,2,1.0
+bhavyesh donga,ranji_trophy,saurashtra,0,0,12,12,1.0
+angkrish raghuvanshi,ranji_trophy,mumbai,0,0,1,1,1.0
+yuvraj singh,col_c_k_nayudu,rajasthan,0,0,1,1,1.0
+a k chahal,syed_mushtaq_ali_trophy,haryana,0,0,3,3,1.0
+atharva taide,ranji_trophy,vidarbha,0,0,1,1,1.0
+atharva taide,syed_mushtaq_ali_trophy,vidarbha,0,0,1,1,1.0
+joshua,syed_mushtaq_ali_trophy,nagaland,0,0,2,2,1.0
+suryansh shedge,col_c_k_nayudu,mumbai,0,0,1,1,1.0
+suryansh shedge,ranji_trophy,mumbai,0,0,1,1,1.0
+suryansh shedge,syed_mushtaq_ali_trophy,mumbai,0,0,1,1,1.0
+krish shahapurkar,col_c_k_nayudu,maharashtra,0,0,3,3,1.0
+parthiv jayesh,col_c_k_nayudu,kerala,0,0,12,12,1.0
+arjun tendulkar,syed_mushtaq_ali_trophy,goa,0,0,2,2,1.0
+arjun tendulkar,ranji_trophy,goa,0,0,2,2,1.0
+varun aaron,syed_mushtaq_ali_trophy,jharkhand,0,0,1,1,1.0
+yuvraj singh,col_c_k_nayudu,gujarat,0,0,1,1,1.0
+yuvraj singh,ranji_trophy,haryana,0,0,1,1,1.0
+t khan,col_c_k_nayudu,rajasthan,0,0,2,2,1.0
+joshua,ranji_trophy,nagaland,0,0,2,2,1.0
+yuvraj singh,col_c_k_nayudu,haryana,0,0,1,1,1.0
+jayden goodwin,sheffield_shield,wa,0,0,2,2,1.0
+naveen,col_c_k_nayudu,mizoram,0,0,2,2,1.0
+naveen,ranji_trophy,mizoram,0,0,2,2,1.0
+naveen,syed_mushtaq_ali_trophy,mizoram,0,0,2,2,1.0
+kirtivardhan upadhyay,col_c_k_nayudu,railways,0,0,2,2,1.0
+angkrish raghuvanshi,col_c_k_nayudu,mumbai,0,0,1,1,1.0
+jayden goodwin,domestic_one_day,wa,0,0,2,2,1.0
+manthan r upadhyay,col_c_k_nayudu,gujarat,0,0,2,2,1.0
+saroj,syed_mushtaq_ali_trophy,manipur,0,0,1,1,1.0
+saroj,ranji_trophy,manipur,0,0,1,1,1.0
+a k chahal,ranji_trophy,haryana,0,0,3,3,1.0
+b yeswanth,syed_mushtaq_ali_trophy,andhra,0,4,12,16,0.75
+vipraj nigam,ranji_trophy,uttar pradesh,0,1,3,4,0.75
+vipraj nigam,col_c_k_nayudu,uttar pradesh,0,1,3,4,0.75
+b yeswanth,col_c_k_nayudu,andhra,0,4,12,16,0.75
+vipraj nigam,syed_mushtaq_ali_trophy,uttar pradesh,0,1,3,4,0.75
+d l chahar,syed_mushtaq_ali_trophy,rajasthan,0,1,3,4,0.75
+r d chahar,ranji_trophy,rajasthan,0,1,3,4,0.75
+r d chahar,syed_mushtaq_ali_trophy,rajasthan,0,1,3,4,0.75
+j singh,syed_mushtaq_ali_trophy,rajasthan,0,1,3,4,0.75
+j singh,ranji_trophy,rajasthan,0,1,3,4,0.75
+d l chahar,ranji_trophy,rajasthan,0,1,3,4,0.75
+neel,col_c_k_nayudu,chandigarh,0,1,2,3,0.6666666666666666
+karan,syed_mushtaq_ali_trophy,saurashtra,0,1,2,3,0.6666666666666666
+karan,syed_mushtaq_ali_trophy,mizoram,0,1,2,3,0.6666666666666666
+karan,ranji_trophy,saurashtra,0,1,2,3,0.6666666666666666
+karan,col_c_k_nayudu,mizoram,0,1,2,3,0.6666666666666666
+champion,col_c_k_nayudu,manipur,4,10,38,52,0.6538461538461539
+rajat patidar,syed_mushtaq_ali_trophy,madhya pradesh,0,2,3,5,0.6
+rajat patidar,ranji_trophy,madhya pradesh,0,2,3,5,0.6
+manish pandey,ranji_trophy,karnataka,0,3,4,7,0.5714285714285714
+b sai sudharsan,syed_mushtaq_ali_trophy,tamil nadu,0,3,4,7,0.5714285714285714
+manish pandey,syed_mushtaq_ali_trophy,karnataka,0,3,4,7,0.5714285714285714
+b sai sudharsan,ranji_trophy,tamil nadu,0,3,4,7,0.5714285714285714
+ayush mhatre,col_c_k_nayudu,mumbai,1,4,8,13,0.5384615384615384
+ayush mhatre,syed_mushtaq_ali_trophy,mumbai,1,4,8,13,0.5384615384615384
+ayush mhatre,ranji_trophy,mumbai,1,4,8,13,0.5384615384615384
+rinku singh,ranji_trophy,uttar pradesh,0,1,1,2,0.5
+sam konstas,domestic_one_day,nsw,0,1,1,2,0.5
+sachin baby,ranji_trophy,kerala,0,1,1,2,0.5
+rinku singh,syed_mushtaq_ali_trophy,uttar pradesh,0,1,1,2,0.5
+priyansh arya,syed_mushtaq_ali_trophy,delhi,1,2,5,8,0.5
+sachin baby,syed_mushtaq_ali_trophy,kerala,0,1,1,2,0.5
+ishant sharma,syed_mushtaq_ali_trophy,delhi,0,2,2,4,0.5
+ishant sharma,ranji_trophy,delhi,0,2,2,4,0.5
+shardul thakur,ranji_trophy,mumbai,0,2,2,4,0.5
+sam konstas,second_xi,nsw,0,1,1,2,0.5
+shashank singh,syed_mushtaq_ali_trophy,chhattisgarh,0,3,3,6,0.5
+sam konstas,sheffield_shield,nsw,0,1,1,2,0.5
+priyansh arya,col_c_k_nayudu,delhi,1,2,5,8,0.5
+shardul thakur,syed_mushtaq_ali_trophy,mumbai,0,2,2,4,0.5
+harshdeep singh,syed_mushtaq_ali_trophy,punjab,0,2,2,4,0.5
+rebi,col_c_k_nayudu,arunachal pradesh,0,1,1,2,0.5
+harshdeep singh,col_c_k_nayudu,punjab,0,2,2,4,0.5
+shashank singh,ranji_trophy,chhattisgarh,0,3,3,6,0.5
+robin minz,syed_mushtaq_ali_trophy,jharkhand,0,1,1,2,0.5
+sarfaraz,syed_mushtaq_ali_trophy,mizoram,0,1,1,2,0.5
+abdul samad,syed_mushtaq_ali_trophy,j  k,0,2,2,4,0.5
+varun,syed_mushtaq_ali_trophy,tamil nadu,1,4,7,12,0.5
+naman dhir,ranji_trophy,punjab,0,2,2,4,0.5
+naman dhir,syed_mushtaq_ali_trophy,punjab,0,2,2,4,0.5
+abdul samad,ranji_trophy,j  k,0,2,2,4,0.5
+varun,ranji_trophy,hyderabad,1,4,7,12,0.5
+varun,syed_mushtaq_ali_trophy,hyderabad,1,4,7,12,0.5
+mitch marsh,sheffield_shield,wa,0,1,1,2,0.5
+prem,ranji_trophy,pondicherry,2,12,16,30,0.4666666666666667
+prem,syed_mushtaq_ali_trophy,pondicherry,2,12,16,30,0.4666666666666667
+manish,col_c_k_nayudu,meghalaya,1,3,5,9,0.4444444444444444
+nitish rana,ranji_trophy,uttar pradesh,1,6,7,14,0.42857142857142855
+nitish rana,syed_mushtaq_ali_trophy,uttar pradesh,1,6,7,14,0.42857142857142855
+sachin,syed_mushtaq_ali_trophy,mizoram,3,24,25,52,0.4230769230769231
+sachin,ranji_trophy,mizoram,3,24,25,52,0.4230769230769231
+sachin,col_c_k_nayudu,mizoram,3,24,25,52,0.4230769230769231
+sachin,col_c_k_nayudu,meghalaya,3,24,25,52,0.4230769230769231
+yuvraj,syed_mushtaq_ali_trophy,railways,0,3,2,5,0.4
+yuvraj,ranji_trophy,railways,0,3,2,5,0.4
+yuzvendra chahal,syed_mushtaq_ali_trophy,haryana,1,1,3,5,0.4
+yuzvendra chahal,ranji_trophy,haryana,1,1,3,5,0.4
+arshdeep singh,syed_mushtaq_ali_trophy,punjab,0,3,2,5,0.4
+axar patel,syed_mushtaq_ali_trophy,gujarat,1,4,5,10,0.4
+axar patel,ranji_trophy,gujarat,1,4,5,10,0.4
+arshdeep singh,ranji_trophy,punjab,0,3,2,5,0.4
+meet,syed_mushtaq_ali_trophy,saurashtra,3,3,8,14,0.35714285714285715
+meet,col_c_k_nayudu,saurashtra,3,3,8,14,0.35714285714285715
+meet,ranji_trophy,saurashtra,3,3,8,14,0.35714285714285715
+dina,syed_mushtaq_ali_trophy,mizoram,1,9,7,17,0.35294117647058826
+avesh khan,ranji_trophy,madhya pradesh,0,15,8,23,0.34782608695652173
+avesh khan,syed_mushtaq_ali_trophy,madhya pradesh,0,15,8,23,0.34782608695652173
+dev,ranji_trophy,saurashtra,7,33,31,71,0.3380281690140845
+dev,col_c_k_nayudu,saurashtra,7,33,31,71,0.3380281690140845
+dev,syed_mushtaq_ali_trophy,saurashtra,7,33,31,71,0.3380281690140845
+karun nair,syed_mushtaq_ali_trophy,vidarbha,1,2,3,6,0.3333333333333333
+piyush s,col_c_k_nayudu,vidarbha,0,2,1,3,0.3333333333333333
+mukesh kumar,ranji_trophy,bengal,1,0,2,3,0.3333333333333333
+mukesh kumar,syed_mushtaq_ali_trophy,bengal,1,0,2,3,0.3333333333333333
+mukesh kumar,syed_mushtaq_ali_trophy,uttar pradesh,1,0,2,3,0.3333333333333333
+amit,ranji_trophy,arunachal pradesh,1,4,4,9,0.3333333333333333
+amit,syed_mushtaq_ali_trophy,arunachal pradesh,1,4,4,9,0.3333333333333333
+mukesh kumar,ranji_trophy,uttar pradesh,1,0,2,3,0.3333333333333333
+roshan,col_c_k_nayudu,sikkim,0,2,1,3,0.3333333333333333
+p patidar,col_c_k_nayudu,baroda,0,2,1,3,0.3333333333333333
+karun nair,ranji_trophy,vidarbha,1,2,3,6,0.3333333333333333
+krishna,syed_mushtaq_ali_trophy,pondicherry,1,10,7,18,0.3333333333333333
+krishna,ranji_trophy,pondicherry,1,10,7,18,0.3333333333333333
+shivam dube,ranji_trophy,mumbai,1,4,4,9,0.3333333333333333
+shivam dube,syed_mushtaq_ali_trophy,mumbai,1,4,4,9,0.3333333333333333
+roshan,syed_mushtaq_ali_trophy,sikkim,0,2,1,3,0.3333333333333333
+kartik,syed_mushtaq_ali_trophy,rajasthan,0,2,1,3,0.3333333333333333
+krish,col_c_k_nayudu,saurashtra,1,17,10,28,0.32142857142857145
+arya,ranji_trophy,delhi,2,11,9,22,0.3181818181818182
+arya,syed_mushtaq_ali_trophy,delhi,2,11,9,22,0.3181818181818182
+ajay,col_c_k_nayudu,uttarakhand,0,9,4,13,0.3076923076923077
+s chahar,syed_mushtaq_ali_trophy,arunachal pradesh,2,3,5,10,0.3
+ansh,col_c_k_nayudu,uttarakhand,9,38,33,80,0.3
+shreyas iyer,ranji_trophy,mumbai,3,8,9,20,0.3
+shreyas iyer,syed_mushtaq_ali_trophy,mumbai,3,8,9,20,0.3
+rajan,ranji_trophy,uttarakhand,2,3,5,10,0.3
+rajan,syed_mushtaq_ali_trophy,uttarakhand,2,3,5,10,0.3
+virat kohli,syed_mushtaq_ali_trophy,delhi,3,17,12,32,0.28125
+virat kohli,ranji_trophy,delhi,3,17,12,32,0.28125
+manit,col_c_k_nayudu,j  k,1,6,4,11,0.2727272727272727
+shivam d,col_c_k_nayudu,vidarbha,1,6,4,11,0.2727272727272727
+rohit shah,ranji_trophy,meghalaya,0,8,3,11,0.2727272727272727
+rohit shah,syed_mushtaq_ali_trophy,meghalaya,0,8,3,11,0.2727272727272727
+vaibhav suryavanshi,ranji_trophy,bihar,1,9,5,15,0.26666666666666666
+vaibhav suryavanshi,syed_mushtaq_ali_trophy,bihar,1,9,5,15,0.26666666666666666
+riyan parag,ranji_trophy,assam,4,23,15,42,0.2619047619047619
+riyan parag,syed_mushtaq_ali_trophy,assam,4,23,15,42,0.2619047619047619
+shubman gill,ranji_trophy,punjab,0,3,1,4,0.25
+himan,ranji_trophy,meghalaya,1,1,2,4,0.25
+himan,syed_mushtaq_ali_trophy,meghalaya,1,1,2,4,0.25
+shubman gill,syed_mushtaq_ali_trophy,punjab,0,3,1,4,0.25
+anshul kamboj,syed_mushtaq_ali_trophy,haryana,0,3,1,4,0.25
+glenn maxwell,domestic_one_day,victoria,0,3,1,4,0.25
+arun,syed_mushtaq_ali_trophy,hyderabad,5,14,13,32,0.25
+arun,ranji_trophy,sikkim,5,14,13,32,0.25
+shangkar,ranji_trophy,manipur,0,3,1,4,0.25
+shangkar,syed_mushtaq_ali_trophy,manipur,0,3,1,4,0.25
+ashutosh sharma,syed_mushtaq_ali_trophy,railways,0,3,1,4,0.25
+arun,ranji_trophy,hyderabad,5,14,13,32,0.25
+arun,syed_mushtaq_ali_trophy,sikkim,5,14,13,32,0.25
+ashutosh sharma,ranji_trophy,railways,0,3,1,4,0.25
+anshul kamboj,ranji_trophy,haryana,0,3,1,4,0.25
+sunny,col_c_k_nayudu,tamil nadu,1,1,2,4,0.25
+sunny,syed_mushtaq_ali_trophy,tamil nadu,1,1,2,4,0.25
+deepak,col_c_k_nayudu,bihar,4,14,11,29,0.2413793103448276
+deepak,ranji_trophy,manipur,4,14,11,29,0.2413793103448276
+deepak,ranji_trophy,arunachal pradesh,4,14,11,29,0.2413793103448276
+deepak,syed_mushtaq_ali_trophy,rajasthan,4,14,11,29,0.2413793103448276
+deepak,ranji_trophy,rajasthan,4,14,11,29,0.2413793103448276
+deepak,syed_mushtaq_ali_trophy,manipur,4,14,11,29,0.2413793103448276
+deepak,syed_mushtaq_ali_trophy,arunachal pradesh,4,14,11,29,0.2413793103448276
+shah,syed_mushtaq_ali_trophy,manipur,6,58,28,92,0.2391304347826087
+shah,ranji_trophy,manipur,6,58,28,92,0.2391304347826087
+simran,col_c_k_nayudu,arunachal pradesh,2,9,6,17,0.23529411764705882
+hem,ranji_trophy,nagaland,139,292,308,739,0.22868741542625168
+hem,syed_mushtaq_ali_trophy,nagaland,139,292,308,739,0.22868741542625168
+rohit,syed_mushtaq_ali_trophy,andhra,54,279,168,501,0.2275449101796407
+rohit,ranji_trophy,manipur,54,279,168,501,0.2275449101796407
+rohit,col_c_k_nayudu,manipur,54,279,168,501,0.2275449101796407
+rohit,col_c_k_nayudu,bihar,54,279,168,501,0.2275449101796407
+rohit,col_c_k_nayudu,meghalaya,54,279,168,501,0.2275449101796407
+rohit,syed_mushtaq_ali_trophy,manipur,54,279,168,501,0.2275449101796407
+rohit sharma,ranji_trophy,j  k,7,20,17,44,0.22727272727272727
+rohit sharma,syed_mushtaq_ali_trophy,j  k,7,20,17,44,0.22727272727272727
+rohit sharma,ranji_trophy,mumbai,7,20,17,44,0.22727272727272727
+rohit sharma,syed_mushtaq_ali_trophy,mumbai,7,20,17,44,0.22727272727272727
+rohi,col_c_k_nayudu,uttarakhand,54,279,167,500,0.226
+kuldeep,ranji_trophy,arunachal pradesh,3,15,9,27,0.2222222222222222
+kuldeep,syed_mushtaq_ali_trophy,arunachal pradesh,3,15,9,27,0.2222222222222222
+rahul,ranji_trophy,sikkim,17,39,37,93,0.21505376344086022
+rahul,ranji_trophy,hyderabad,17,39,37,93,0.21505376344086022
+rahul,syed_mushtaq_ali_trophy,arunachal pradesh,17,39,37,93,0.21505376344086022
+rahul,syed_mushtaq_ali_trophy,hyderabad,17,39,37,93,0.21505376344086022
+rahul,ranji_trophy,arunachal pradesh,17,39,37,93,0.21505376344086022
+rahul,col_c_k_nayudu,nagaland,17,39,37,93,0.21505376344086022
+rahul,syed_mushtaq_ali_trophy,sikkim,17,39,37,93,0.21505376344086022
+raj,col_c_k_nayudu,bihar,29,89,68,186,0.20967741935483872
+raj,col_c_k_nayudu,saurashtra,29,89,68,186,0.20967741935483872
+som,syed_mushtaq_ali_trophy,sikkim,195,468,412,1075,0.20186046511627906
+som,ranji_trophy,sikkim,195,468,412,1075,0.20186046511627906
+siddharth,col_c_k_nayudu,sikkim,0,4,1,5,0.2
+om,col_c_k_nayudu,odisha,627,1776,1370,3773,0.1969255234561357
+jitesh,col_c_k_nayudu,haryana,4,29,13,46,0.1956521739130435
+dol,ranji_trophy,arunachal pradesh,3,19,9,31,0.1935483870967742
+dol,syed_mushtaq_ali_trophy,arunachal pradesh,3,19,9,31,0.1935483870967742
+dhruv,ranji_trophy,delhi,3,15,8,26,0.19230769230769232
+dhruv,syed_mushtaq_ali_trophy,delhi,3,15,8,26,0.19230769230769232
+r sharma,syed_mushtaq_ali_trophy,railways,1,15,5,21,0.19047619047619047
+r sharma,ranji_trophy,railways,1,15,5,21,0.19047619047619047
+mohit sharma,syed_mushtaq_ali_trophy,haryana,2,9,5,16,0.1875
+mohit sharma,ranji_trophy,haryana,2,9,5,16,0.1875
+surya,syed_mushtaq_ali_trophy,mumbai,4,36,14,54,0.18518518518518517
+surya,ranji_trophy,mumbai,4,36,14,54,0.18518518518518517
+vijay shankar,ranji_trophy,tamil nadu,3,8,6,17,0.17647058823529413
+prithvi,col_c_k_nayudu,hyderabad,1,12,4,17,0.17647058823529413
+vijay shankar,syed_mushtaq_ali_trophy,tamil nadu,3,8,6,17,0.17647058823529413
+prithvi,ranji_trophy,hyderabad,1,12,4,17,0.17647058823529413
+prithvi,syed_mushtaq_ali_trophy,hyderabad,1,12,4,17,0.17647058823529413
+romario,col_c_k_nayudu,manipur,0,14,3,17,0.17647058823529413
+jay,col_c_k_nayudu,goa,24,112,58,194,0.17525773195876287
+aniket,col_c_k_nayudu,uttar pradesh,4,16,9,29,0.1724137931034483
+aniket,col_c_k_nayudu,himachal pradesh,4,16,9,29,0.1724137931034483
+deep,col_c_k_nayudu,baroda,37,115,75,227,0.16740088105726872
+moji,ranji_trophy,arunachal pradesh,0,5,1,6,0.16666666666666666
+prithvi shaw,syed_mushtaq_ali_trophy,mumbai,1,8,3,12,0.16666666666666666
+devdutt padikkal,syed_mushtaq_ali_trophy,karnataka,0,5,1,6,0.16666666666666666
+moji,syed_mushtaq_ali_trophy,arunachal pradesh,0,5,1,6,0.16666666666666666
+m ashwin,syed_mushtaq_ali_trophy,j  k,0,5,1,6,0.16666666666666666
+m ashwin,ranji_trophy,j  k,0,5,1,6,0.16666666666666666
+prithvi shaw,ranji_trophy,mumbai,1,8,3,12,0.16666666666666666
+anshul,syed_mushtaq_ali_trophy,uttarakhand,0,5,1,6,0.16666666666666666
+anas,col_c_k_nayudu,bengal,1,3,2,6,0.16666666666666666
+j b,ranji_trophy,gujarat,2,16,6,24,0.16666666666666666
+j b,syed_mushtaq_ali_trophy,gujarat,2,16,6,24,0.16666666666666666
+devdutt padikkal,ranji_trophy,karnataka,0,5,1,6,0.16666666666666666
+ram,col_c_k_nayudu,arunachal pradesh,21,93,47,161,0.16149068322981366
+ram,ranji_trophy,meghalaya,21,93,47,161,0.16149068322981366
+ram,syed_mushtaq_ali_trophy,meghalaya,21,93,47,161,0.16149068322981366
+sandeep sharma,ranji_trophy,chandigarh,4,13,8,25,0.16
+sandeep sharma,syed_mushtaq_ali_trophy,chandigarh,4,13,8,25,0.16
+ravi,col_c_k_nayudu,saurashtra,27,58,48,133,0.15789473684210525
+eden,ranji_trophy,mizoram,7,20,13,40,0.15
+eden,syed_mushtaq_ali_trophy,mizoram,7,20,13,40,0.15
+k l rahul,ranji_trophy,karnataka,1,4,2,7,0.14285714285714285
+nehal wadhera,syed_mushtaq_ali_trophy,punjab,2,8,4,14,0.14285714285714285
+nehal wadhera,ranji_trophy,punjab,2,8,4,14,0.14285714285714285
+k l rahul,syed_mushtaq_ali_trophy,karnataka,1,4,2,7,0.14285714285714285
+abhishek,syed_mushtaq_ali_trophy,arunachal pradesh,13,41,23,77,0.12987012987012986
+abhishek,col_c_k_nayudu,meghalaya,13,41,23,77,0.12987012987012986
+arjun,col_c_k_nayudu,arunachal pradesh,2,3,3,8,0.125
+arjun,syed_mushtaq_ali_trophy,nagaland,2,3,3,8,0.125
+arjun,ranji_trophy,nagaland,2,3,3,8,0.125
+venkatesh m,ranji_trophy,karnataka,0,7,1,8,0.125
+arjun,col_c_k_nayudu,saurashtra,2,3,3,8,0.125
+arjun,col_c_k_nayudu,nagaland,2,3,3,8,0.125
+venkatesh m,syed_mushtaq_ali_trophy,karnataka,0,7,1,8,0.125
+a sharma,col_c_k_nayudu,rajasthan,1,12,3,16,0.125
+vaibhav m,col_c_k_nayudu,pondicherry,2,18,5,25,0.12
+tushar,col_c_k_nayudu,uttarakhand,1,6,2,9,0.1111111111111111
+a raj,ranji_trophy,bihar,1,6,2,9,0.1111111111111111
+a raj,syed_mushtaq_ali_trophy,bihar,1,6,2,9,0.1111111111111111
+obi,syed_mushtaq_ali_trophy,arunachal pradesh,4,9,6,19,0.10526315789473684
+obi,ranji_trophy,arunachal pradesh,4,9,6,19,0.10526315789473684
+shubham,col_c_k_nayudu,chandigarh,3,3,4,10,0.1
+shubham,col_c_k_nayudu,uttarakhand,3,3,4,10,0.1
+vijay,syed_mushtaq_ali_trophy,nagaland,7,13,10,30,0.1
+vijay,ranji_trophy,nagaland,7,13,10,30,0.1
+ete,syed_mushtaq_ali_trophy,arunachal pradesh,62,454,111,627,0.07814992025518341
+ete,ranji_trophy,arunachal pradesh,62,454,111,627,0.07814992025518341
+venkatesh iyer,ranji_trophy,madhya pradesh,1,10,2,13,0.07692307692307693
+venkatesh iyer,syed_mushtaq_ali_trophy,madhya pradesh,1,10,2,13,0.07692307692307693
+digvesh,syed_mushtaq_ali_trophy,delhi,8,10,10,28,0.07142857142857142
+shashank,col_c_k_nayudu,pondicherry,7,33,10,50,0.06
+abhishek sharma,syed_mushtaq_ali_trophy,punjab,3,14,4,21,0.047619047619047616
+abhishek sharma,ranji_trophy,punjab,3,14,4,21,0.047619047619047616
+ishan,syed_mushtaq_ali_trophy,jharkhand,20,58,21,99,0.010101010101010102
+ishan,ranji_trophy,jharkhand,20,58,21,99,0.010101010101010102
+ritesh shakya,ranji_trophy,madhya pradesh,0,1,0,1,0.0
+rishant kohli,syed_mushtaq_ali_trophy,haryana,0,3,0,3,0.0
+rishant kohli,ranji_trophy,haryana,0,3,0,3,0.0
+rm bishnoi,ranji_trophy,gujarat,0,16,0,16,0.0
+rawait khan,ecb_club,smethwick,0,1,0,1,0.0
+rishabh pant,syed_mushtaq_ali_trophy,delhi,5,11,5,21,0.0
+ritesh shakya,syed_mushtaq_ali_trophy,madhya pradesh,0,1,0,1,0.0
+ravinderpal singh,syed_mushtaq_ali_trophy,chandigarh,0,1,0,1,0.0
+ritwik roy chowdhury,syed_mushtaq_ali_trophy,bengal,0,2,0,2,0.0
+reshabh dipok,col_c_k_nayudu,assam,0,7,0,7,0.0
+rehan sai,col_c_k_nayudu,kerala,0,2,0,2,0.0
+rishabh pant,ranji_trophy,delhi,5,11,5,21,0.0
+ripudaman singh godhan,col_c_k_nayudu,chandigarh,0,2,0,2,0.0
+r b bishnoi jr,syed_mushtaq_ali_trophy,rajasthan,0,1,0,1,0.0
+ravinderpal singh,ranji_trophy,chandigarh,0,1,0,1,0.0
+prabhsimran singh,syed_mushtaq_ali_trophy,punjab,0,1,0,1,0.0
+piyush chawla,syed_mushtaq_ali_trophy,uttar pradesh,1,3,1,5,0.0
+peter francis,second_xi,nsw,0,5,0,5,0.0
+parvez,syed_mushtaq_ali_trophy,mizoram,0,1,0,1,0.0
+parvez,ranji_trophy,mizoram,0,1,0,1,0.0
+parth nagill,col_c_k_nayudu,haryana,0,1,0,1,0.0
+parmit singh,col_c_k_nayudu,bengal,0,2,0,2,0.0
+parav singla,col_c_k_nayudu,haryana,0,1,0,1,0.0
+parameeshwaran s,syed_mushtaq_ali_trophy,pondicherry,0,1,0,1,0.0
+parameeshwaran s,ranji_trophy,pondicherry,0,1,0,1,0.0
+p vignesh,syed_mushtaq_ali_trophy,tamil nadu,0,1,0,1,0.0
+p vignesh,col_c_k_nayudu,tamil nadu,0,1,0,1,0.0
+p s kohli,syed_mushtaq_ali_trophy,baroda,0,3,0,3,0.0
+p s kohli,ranji_trophy,baroda,0,3,0,3,0.0
+p dewli,col_c_k_nayudu,uttarakhand,0,2,0,2,0.0
+ok patkal,col_c_k_nayudu,maharashtra,0,6,0,6,0.0
+odilemba,col_c_k_nayudu,nagaland,0,1,0,1,0.0
+virat singh,ranji_trophy,jharkhand,0,1,0,1,0.0
+nishant kushwah,syed_mushtaq_ali_trophy,railways,0,1,0,1,0.0
+nishant kushwah,ranji_trophy,railways,0,1,0,1,0.0
+nikhil s,col_c_k_nayudu,hyderabad,0,1,0,1,0.0
+nikhil m,col_c_k_nayudu,kerala,0,1,0,1,0.0
+nikhil kashyap,syed_mushtaq_ali_trophy,haryana,0,1,0,1,0.0
+nikhil kashyap,ranji_trophy,haryana,0,1,0,1,0.0
+nikhil kanoriya,col_c_k_nayudu,chhattisgarh,0,15,0,15,0.0
+nikhil kadam,syed_mushtaq_ali_trophy,maharashtra,0,1,0,1,0.0
+prabhsimran singh,ranji_trophy,punjab,0,1,0,1,0.0
+prarabdha mishra,col_c_k_nayudu,madhya pradesh,0,1,0,1,0.0
+raman bishnoi,syed_mushtaq_ali_trophy,chandigarh,0,16,0,16,0.0
+prarabdha mishra,ranji_trophy,madhya pradesh,0,1,0,1,0.0
+raman bishnoi,ranji_trophy,chandigarh,0,16,0,16,0.0
+raj limbani,syed_mushtaq_ali_trophy,baroda,0,1,0,1,0.0
+raj limbani,ranji_trophy,baroda,0,1,0,1,0.0
+raj limbani,col_c_k_nayudu,baroda,0,1,0,1,0.0
+rahul rathee,syed_mushtaq_ali_trophy,haryana,0,1,0,1,0.0
+rahul rathee,ranji_trophy,haryana,0,1,0,1,0.0
+rahul rathee,col_c_k_nayudu,haryana,0,1,0,1,0.0
+rahul chowdhary,col_c_k_nayudu,bengal,0,2,0,2,0.0
+raghav,col_c_k_nayudu,meghalaya,0,1,0,1,0.0
+r v kashyap,syed_mushtaq_ali_trophy,himachal pradesh,0,1,0,1,0.0
+r v kashyap,ranji_trophy,himachal pradesh,0,1,0,1,0.0
+r sai kishore,syed_mushtaq_ali_trophy,tamil nadu,0,3,0,3,0.0
+r sai kishore,ranji_trophy,tamil nadu,0,3,0,3,0.0
+r reddy prakash,col_c_k_nayudu,andhra,0,1,0,1,0.0
+r k tewatia,syed_mushtaq_ali_trophy,haryana,0,1,0,1,0.0
+r k tewatia,ranji_trophy,haryana,0,1,0,1,0.0
+r b bishnoi jr,ranji_trophy,rajasthan,0,1,0,1,0.0
+pvsn raju,syed_mushtaq_ali_trophy,andhra,0,1,0,1,0.0
+pvsn raju,ranji_trophy,andhra,0,1,0,1,0.0
+prithvi raj yarra,syed_mushtaq_ali_trophy,andhra,0,3,0,3,0.0
+prithvi raj yarra,ranji_trophy,andhra,0,3,0,3,0.0
+prikshit kashyap,syed_mushtaq_ali_trophy,himachal pradesh,0,1,0,1,0.0
+prikshit kashyap,ranji_trophy,himachal pradesh,0,1,0,1,0.0
+prashid akash h,col_c_k_nayudu,tamil nadu,0,1,0,1,0.0
+prarabdha mishra,syed_mushtaq_ali_trophy,madhya pradesh,0,1,0,1,0.0
+rm bishnoi,syed_mushtaq_ali_trophy,gujarat,0,16,0,16,0.0
+ziyad zaman,col_c_k_nayudu,assam,0,1,0,1,0.0
+rohan kadam,ranji_trophy,goa,0,1,0,1,0.0
+sunil bishnoi,col_c_k_nayudu,pondicherry,0,16,0,16,0.0
+sumit,syed_mushtaq_ali_trophy,mizoram,0,2,0,2,0.0
+sumit,syed_mushtaq_ali_trophy,sikkim,0,2,0,2,0.0
+sumit kashyap,col_c_k_nayudu,assam,0,4,0,4,0.0
+sumit kashyap,syed_mushtaq_ali_trophy,assam,0,4,0,4,0.0
+sumit kushwah,col_c_k_nayudu,madhya pradesh,0,1,0,1,0.0
+sumit kushwah,ranji_trophy,madhya pradesh,0,1,0,1,0.0
+sumit kushwah,syed_mushtaq_ali_trophy,madhya pradesh,0,1,0,1,0.0
+sumit nag,col_c_k_nayudu,bengal,0,2,0,2,0.0
+suraj kashyap,col_c_k_nayudu,bihar,0,1,0,1,0.0
+swastik,ranji_trophy,uttar pradesh,1,2,1,4,0.0
+suraj vashisht,ranji_trophy,services,0,1,0,1,0.0
+suraj vashisht,syed_mushtaq_ali_trophy,services,0,1,0,1,0.0
+suryansh raina,ranji_trophy,j  k,0,4,0,4,0.0
+suryansh raina,syed_mushtaq_ali_trophy,j  k,0,4,0,4,0.0
+suyash s prabhudessai,ranji_trophy,goa,0,1,0,1,0.0
+suyash s prabhudessai,syed_mushtaq_ali_trophy,goa,0,1,0,1,0.0
+suyash sharma,syed_mushtaq_ali_trophy,delhi,0,2,0,2,0.0
+swaroop s hipparagi,col_c_k_nayudu,karnataka,0,2,0,2,0.0
+sumit,ranji_trophy,sikkim,0,2,0,2,0.0
+sumit,ranji_trophy,mizoram,0,2,0,2,0.0
+sumit,col_c_k_nayudu,arunachal pradesh,0,2,0,2,0.0
+sukhmeet singh,syed_mushtaq_ali_trophy,bengal,0,3,0,3,0.0
+soutrik das,col_c_k_nayudu,bengal,0,10,0,10,0.0
+spencer johnson,domestic_one_day,sa,0,1,0,1,0.0
+spencer johnson,sheffield_shield,sa,0,1,0,1,0.0
+sridam paul,col_c_k_nayudu,tripura,0,1,0,1,0.0
+sridam paul,ranji_trophy,tripura,0,1,0,1,0.0
+sridam paul,syed_mushtaq_ali_trophy,tripura,0,1,0,1,0.0
+subham chatterjee,ranji_trophy,bengal,0,2,0,2,0.0
+subham chatterjee,syed_mushtaq_ali_trophy,bengal,0,2,0,2,0.0
+subham mandal,ranji_trophy,assam,0,1,0,1,0.0
+subham mandal,syed_mushtaq_ali_trophy,assam,0,1,0,1,0.0
+subham naik,col_c_k_nayudu,odisha,0,1,0,1,0.0
+subham priyadarshi,col_c_k_nayudu,odisha,0,1,0,1,0.0
+subham singh,col_c_k_nayudu,bengal,0,1,0,1,0.0
+subhransu senapati,ranji_trophy,madhya pradesh,0,1,0,1,0.0
+subhransu senapati,syed_mushtaq_ali_trophy,madhya pradesh,0,1,0,1,0.0
+subramanyam,col_c_k_nayudu,andhra,0,3,0,3,0.0
+sukhmeet singh,col_c_k_nayudu,bengal,0,3,0,3,0.0
+swastik,col_c_k_nayudu,uttar pradesh,1,2,1,4,0.0
+swastik,syed_mushtaq_ali_trophy,uttar pradesh,1,2,1,4,0.0
+somen mahanti,col_c_k_nayudu,bengal,0,2,0,2,0.0
+vaibhav ramanuj,col_c_k_nayudu,saurashtra,0,1,0,1,0.0
+tripuresh singh,syed_mushtaq_ali_trophy,madhya pradesh,0,1,0,1,0.0
+umesh yadav,ranji_trophy,vidarbha,0,1,0,1,0.0
+umesh yadav,syed_mushtaq_ali_trophy,vidarbha,0,1,0,1,0.0
+umran malik,ranji_trophy,j  k,0,2,0,2,0.0
+umran malik,syed_mushtaq_ali_trophy,j  k,0,2,0,2,0.0
+vaibhav darkunde,col_c_k_nayudu,maharashtra,0,1,0,1,0.0
+vaibhav h b,col_c_k_nayudu,baroda,0,1,0,1,0.0
+vaibhav pandey,col_c_k_nayudu,railways,0,1,0,1,0.0
+vaibhav s kalta,col_c_k_nayudu,himachal pradesh,0,1,0,1,0.0
+swoop s bhuyan,col_c_k_nayudu,odisha,0,1,0,1,0.0
+vaibhav s kalta,ranji_trophy,himachal pradesh,0,1,0,1,0.0
+vaibhav s kalta,syed_mushtaq_ali_trophy,himachal pradesh,0,1,0,1,0.0
+vaibhav singh,col_c_k_nayudu,pondicherry,0,1,0,1,0.0
+vaibhav tehale,col_c_k_nayudu,maharashtra,0,1,0,1,0.0
+vaibhav yadav,ranji_trophy,bengal,0,1,0,1,0.0
+vaibhav yadav,syed_mushtaq_ali_trophy,bengal,0,1,0,1,0.0
+varun raj singh bisht,col_c_k_nayudu,vidarbha,0,1,0,1,0.0
+vijay r,ranji_trophy,pondicherry,1,0,1,2,0.0
+tripuresh singh,ranji_trophy,madhya pradesh,0,1,0,1,0.0
+tripuresh singh,col_c_k_nayudu,madhya pradesh,0,1,0,1,0.0
+tripurana vijay,syed_mushtaq_ali_trophy,andhra,0,1,0,1,0.0
+tripurana vijay,ranji_trophy,andhra,0,1,0,1,0.0
+t natarajan,syed_mushtaq_ali_trophy,tamil nadu,0,1,0,1,0.0
+tahmeed,ranji_trophy,nagaland,0,1,0,1,0.0
+tahmeed,syed_mushtaq_ali_trophy,nagaland,0,1,0,1,0.0
+tana james,col_c_k_nayudu,arunachal pradesh,0,2,0,2,0.0
+tarun bisht,col_c_k_nayudu,delhi,0,1,0,1,0.0
+techi dol,col_c_k_nayudu,arunachal pradesh,0,2,0,2,0.0
+techi tania tara,col_c_k_nayudu,arunachal pradesh,0,2,0,2,0.0
+teja reddy,col_c_k_nayudu,andhra,0,1,0,1,0.0
+thomas brown,ecb_club,ormskirk,0,3,0,3,0.0
+thomas brown,second_xi,sa,0,3,0,3,0.0
+tilak varma,ranji_trophy,hyderabad,0,2,0,2,0.0
+tilak varma,syed_mushtaq_ali_trophy,hyderabad,0,2,0,2,0.0
+tleipuia,col_c_k_nayudu,mizoram,0,1,0,1,0.0
+tleipuia,ranji_trophy,mizoram,0,1,0,1,0.0
+tleipuia,syed_mushtaq_ali_trophy,mizoram,0,1,0,1,0.0
+tom brooks,second_xi,victoria,0,3,0,3,0.0
+tripurana vijay,col_c_k_nayudu,andhra,0,1,0,1,0.0
+somokanta,col_c_k_nayudu,manipur,0,6,0,6,0.0
+sohan jaif,col_c_k_nayudu,rajasthan,0,1,0,1,0.0
+rohan kadam,syed_mushtaq_ali_trophy,goa,0,1,0,1,0.0
+salman ahmed,col_c_k_nayudu,bengal,0,2,0,2,0.0
+s akhil,syed_mushtaq_ali_trophy,andhra,0,2,0,2,0.0
+s i sopariya,ranji_trophy,baroda,0,1,0,1,0.0
+s i sopariya,syed_mushtaq_ali_trophy,baroda,0,1,0,1,0.0
+s r athish,col_c_k_nayudu,tamil nadu,0,3,0,3,0.0
+sa yadav,col_c_k_nayudu,rajasthan,0,1,0,1,0.0
+sagen murmu,col_c_k_nayudu,bengal,0,1,0,1,0.0
+sahil sheikh,col_c_k_nayudu,vidarbha,0,1,0,1,0.0
+saksham purohit,col_c_k_nayudu,madhya pradesh,0,1,0,1,0.0
+sam brooks,ecb_club,golden hill,0,3,0,3,0.0
+sameer rizvi,ranji_trophy,uttar pradesh,0,10,0,10,0.0
+sam frankland,ecb_club,woodlands,0,5,0,5,0.0
+sam little,ecb_club,horwich rmi,0,1,0,1,0.0
+sam young,ecb_club,bath,0,1,0,1,0.0
+samarpit thakur,col_c_k_nayudu,chhattisgarh,0,1,0,1,0.0
+sambhav parakh,col_c_k_nayudu,pondicherry,0,1,0,1,0.0
+sambit kumar sahoo,col_c_k_nayudu,odisha,0,1,0,1,0.0
+sambit s baral,col_c_k_nayudu,odisha,0,1,0,1,0.0
+sambit s baral,syed_mushtaq_ali_trophy,odisha,0,1,0,1,0.0
+s akhil,ranji_trophy,andhra,0,2,0,2,0.0
+s akhil,col_c_k_nayudu,andhra,0,2,0,2,0.0
+ryan brown,ecb_club,formby,0,3,0,3,0.0
+rp yadav,syed_mushtaq_ali_trophy,arunachal pradesh,0,1,0,1,0.0
+rohit  d,ranji_trophy,pondicherry,0,2,0,2,0.0
+rohit  d,syed_mushtaq_ali_trophy,pondicherry,0,2,0,2,0.0
+rohit dwivedi,col_c_k_nayudu,uttar pradesh,0,1,0,1,0.0
+rohit dwivedi,ranji_trophy,uttar pradesh,0,1,0,1,0.0
+rohit dwivedi,syed_mushtaq_ali_trophy,uttar pradesh,0,1,0,1,0.0
+rohit ghosh,col_c_k_nayudu,tripura,0,1,0,1,0.0
+rohit kumar,col_c_k_nayudu,bengal,0,1,0,1,0.0
+rohit kumar,ranji_trophy,bengal,0,1,0,1,0.0
+rohit kumar,syed_mushtaq_ali_trophy,bengal,0,1,0,1,0.0
+rohit ram,col_c_k_nayudu,bengal,0,1,0,1,0.0
+rohit sen,col_c_k_nayudu,assam,0,1,0,1,0.0
+rohit sen,syed_mushtaq_ali_trophy,assam,0,1,0,1,0.0
+rohit singh rajawat,col_c_k_nayudu,madhya pradesh,0,1,0,1,0.0
+rohit v binkar,col_c_k_nayudu,vidarbha,0,1,0,1,0.0
+roshan topno,col_c_k_nayudu,assam,0,16,0,16,0.0
+rp garg,col_c_k_nayudu,rajasthan,0,1,0,1,0.0
+rp yadav,ranji_trophy,arunachal pradesh,0,1,0,1,0.0
+sameer rizvi,col_c_k_nayudu,uttar pradesh,0,10,0,10,0.0
+sameer rizvi,syed_mushtaq_ali_trophy,uttar pradesh,0,10,0,10,0.0
+snehal kauthankar,syed_mushtaq_ali_trophy,goa,0,1,0,1,0.0
+shubham lamba,ranji_trophy,haryana,0,1,0,1,0.0
+shlok,col_c_k_nayudu,bihar,0,6,0,6,0.0
+shreshth yadav,col_c_k_nayudu,delhi,0,1,0,1,0.0
+shreyas gopal,ranji_trophy,karnataka,0,2,0,2,0.0
+shreyas gopal,syed_mushtaq_ali_trophy,karnataka,0,2,0,2,0.0
+shubham kushwah,col_c_k_nayudu,madhya pradesh,0,1,0,1,0.0
+shubham kushwah,ranji_trophy,madhya pradesh,0,1,0,1,0.0
+shubham kushwah,syed_mushtaq_ali_trophy,madhya pradesh,0,1,0,1,0.0
+shubham lamba,col_c_k_nayudu,haryana,0,1,0,1,0.0
+shubham lamba,syed_mushtaq_ali_trophy,haryana,0,1,0,1,0.0
+sanju samson,ranji_trophy,kerala,2,4,2,8,0.0
+shuhel ansari,ranji_trophy,arunachal pradesh,0,2,0,2,0.0
+shuhel ansari,syed_mushtaq_ali_trophy,arunachal pradesh,0,2,0,2,0.0
+simarjeet singh,ranji_trophy,delhi,0,1,0,1,0.0
+simarjeet singh,syed_mushtaq_ali_trophy,delhi,0,1,0,1,0.0
+smaran r,col_c_k_nayudu,karnataka,0,1,0,1,0.0
+smaran r,ranji_trophy,karnataka,0,1,0,1,0.0
+smaran r,syed_mushtaq_ali_trophy,karnataka,0,1,0,1,0.0
+snehal kauthankar,ranji_trophy,goa,0,1,0,1,0.0
+vikram,col_c_k_nayudu,pondicherry,0,1,0,1,0.0
+sheiteendra,syed_mushtaq_ali_trophy,manipur,0,1,0,1,0.0
+sheiteendra,ranji_trophy,manipur,0,1,0,1,0.0
+shehzor diwan,col_c_k_nayudu,gujarat,0,3,0,3,0.0
+sanju samson,syed_mushtaq_ali_trophy,kerala,2,4,2,8,0.0
+nikhil,col_c_k_nayudu,chandigarh,0,3,0,3,0.0
+saurabh verma,col_c_k_nayudu,gujarat,0,1,0,1,0.0
+saurav,col_c_k_nayudu,nagaland,0,2,0,2,0.0
+saurav,ranji_trophy,nagaland,0,2,0,2,0.0
+saurav,syed_mushtaq_ali_trophy,nagaland,0,2,0,2,0.0
+saurav dey,col_c_k_nayudu,assam,0,1,0,1,0.0
+saurav mousum dihingia,col_c_k_nayudu,assam,0,1,0,1,0.0
+saurav mousum dihingia,syed_mushtaq_ali_trophy,assam,0,1,0,1,0.0
+scott howard,ecb_club,peterborough town,0,2,0,2,0.0
+sehbaaz singh,col_c_k_nayudu,chandigarh,0,2,0,2,0.0
+senglong rongpi,syed_mushtaq_ali_trophy,assam,0,1,0,1,0.0
+seta,ranji_trophy,saurashtra,0,1,0,1,0.0
+seta,syed_mushtaq_ali_trophy,saurashtra,0,1,0,1,0.0
+vikrant,syed_mushtaq_ali_trophy,arunachal pradesh,0,1,0,1,0.0
+vikrant,ranji_trophy,arunachal pradesh,0,1,0,1,0.0
+shashank lokesh,col_c_k_nayudu,hyderabad,0,6,0,6,0.0
+nikhil,syed_mushtaq_ali_trophy,chandigarh,0,3,0,3,0.0
+m sai pratheek,syed_mushtaq_ali_trophy,hyderabad,0,1,0,1,0.0
+nikhil,col_c_k_nayudu,arunachal pradesh,0,3,0,3,0.0
+dipjyoti saikia,col_c_k_nayudu,assam,0,1,0,1,0.0
+debopratim halder,col_c_k_nayudu,railways,0,1,0,1,0.0
+deepak jagbir hooda,ranji_trophy,rajasthan,0,1,0,1,0.0
+deepak jagbir hooda,syed_mushtaq_ali_trophy,rajasthan,0,1,0,1,0.0
+deven,col_c_k_nayudu,himachal pradesh,2,1,2,5,0.0
+dhruva rajesh bhatti,col_c_k_nayudu,baroda,0,1,0,1,0.0
+dip borah,col_c_k_nayudu,nagaland,0,1,0,1,0.0
+dip borah,ranji_trophy,nagaland,0,1,0,1,0.0
+dip borah,syed_mushtaq_ali_trophy,nagaland,0,1,0,1,0.0
+dipender kush,col_c_k_nayudu,chandigarh,0,1,0,1,0.0
+divij mehra,col_c_k_nayudu,delhi,0,4,0,4,0.0
+dane johnson,ranji_trophy,hyderabad,0,1,0,1,0.0
+divij mehra,ranji_trophy,delhi,0,4,0,4,0.0
+divij mehra,syed_mushtaq_ali_trophy,delhi,0,4,0,4,0.0
+divyapratap,syed_mushtaq_ali_trophy,rajasthan,0,1,0,1,0.0
+dominic brown,ecb_club,kimberley institute,0,3,0,3,0.0
+dushyant kachhawaha,col_c_k_nayudu,rajasthan,0,1,0,1,0.0
+dvs sriram,col_c_k_nayudu,andhra,0,4,0,4,0.0
+e dharani kumar,col_c_k_nayudu,andhra,0,3,0,3,0.0
+ed smith,ecb_club,tamworth,0,3,0,3,0.0
+eshwar,syed_mushtaq_ali_trophy,rajasthan,0,1,0,1,0.0
+dane johnson,syed_mushtaq_ali_trophy,hyderabad,0,1,0,1,0.0
+damandeep singh,col_c_k_nayudu,railways,0,1,0,1,0.0
+yash kadam,syed_mushtaq_ali_trophy,vidarbha,0,1,0,1,0.0
+bipin,col_c_k_nayudu,meghalaya,0,1,0,1,0.0
+bhargav bhatt,syed_mushtaq_ali_trophy,baroda,0,1,0,1,0.0
+bhargav nandi,col_c_k_nayudu,andhra,0,1,0,1,0.0
+bhavishya bhavesh patel,col_c_k_nayudu,baroda,0,1,0,1,0.0
+bhim,ranji_trophy,sikkim,0,1,0,1,0.0
+bhim,syed_mushtaq_ali_trophy,sikkim,0,1,0,1,0.0
+bhushan subba,ranji_trophy,sikkim,0,1,0,1,0.0
+bhushan subba,syed_mushtaq_ali_trophy,sikkim,0,1,0,1,0.0
+bhuvneshwar kumar,ranji_trophy,uttar pradesh,0,1,0,1,0.0
+bhuvneshwar kumar,syed_mushtaq_ali_trophy,uttar pradesh,0,1,0,1,0.0
+boopathi vaishna kumar m,col_c_k_nayudu,tamil nadu,0,1,0,1,0.0
+daaryoush ahmed,ecb_club,golden hill,0,1,0,1,0.0
+boopathi vaishna kumar m,ranji_trophy,tamil nadu,0,1,0,1,0.0
+boopathi vaishna kumar m,syed_mushtaq_ali_trophy,tamil nadu,0,1,0,1,0.0
+bora,ranji_trophy,uttarakhand,0,4,0,4,0.0
+bora,syed_mushtaq_ali_trophy,uttarakhand,0,4,0,4,0.0
+brody couch,domestic_one_day,wa,0,3,0,3,0.0
+brody couch,sheffield_shield,wa,0,3,0,3,0.0
+charlie brain,ecb_club,bath,0,3,0,3,0.0
+christopher garrard,ecb_club,witham,0,1,0,1,0.0
+christopher hewison,ecb_club,south northumberland,0,1,0,1,0.0
+fazil  rashid,ranji_trophy,j  k,0,1,0,1,0.0
+fazil  rashid,syed_mushtaq_ali_trophy,j  k,0,1,0,1,0.0
+fraser hawkins,ecb_club,moddershall  oulton,0,5,0,5,0.0
+harry conway,second_xi,sa,0,3,0,3,0.0
+hage tama,syed_mushtaq_ali_trophy,arunachal pradesh,0,1,0,1,0.0
+hardik chowdhry,ranji_trophy,chandigarh,0,2,0,2,0.0
+hardik chowdhry,syed_mushtaq_ali_trophy,chandigarh,0,2,0,2,0.0
+harnoor singh,col_c_k_nayudu,punjab,0,15,0,15,0.0
+harnoor singh,ranji_trophy,punjab,0,15,0,15,0.0
+harnoor singh,syed_mushtaq_ali_trophy,punjab,0,15,0,15,0.0
+harpreet brar,ranji_trophy,punjab,1,2,1,4,0.0
+harpreet brar,syed_mushtaq_ali_trophy,punjab,1,2,1,4,0.0
+harry conway,domestic_one_day,sa,0,3,0,3,0.0
+harry conway,sheffield_shield,sa,0,3,0,3,0.0
+fred egleston,ecb_club,wakefield thornes,0,5,0,5,0.0
+harry dhaliwal,syed_mushtaq_ali_trophy,punjab,0,3,0,3,0.0
+harry matthias,domestic_one_day,sa,0,3,0,3,0.0
+harry matthias,second_xi,sa,0,3,0,3,0.0
+harry matthias,sheffield_shield,sa,0,3,0,3,0.0
+harry nielsen,domestic_one_day,sa,0,3,0,3,0.0
+harry nielsen,second_xi,sa,0,3,0,3,0.0
+harry nielsen,sheffield_shield,sa,0,3,0,3,0.0
+harsh tanna,ranji_trophy,mumbai,0,1,0,1,0.0
+nick langford,ecb_club,cuckney,0,1,0,1,0.0
+hage tama,ranji_trophy,arunachal pradesh,0,1,0,1,0.0
+h a walunj,syed_mushtaq_ali_trophy,maharashtra,0,1,0,1,0.0
+h a walunj,ranji_trophy,maharashtra,0,1,0,1,0.0
+gurjapneet,syed_mushtaq_ali_trophy,tamil nadu,0,2,0,2,0.0
+freddie doorbar,ecb_club,longton,0,5,0,5,0.0
+g rithish reddy,col_c_k_nayudu,hyderabad,0,3,0,3,0.0
+g rithish reddy,ranji_trophy,hyderabad,0,3,0,3,0.0
+g rithish reddy,syed_mushtaq_ali_trophy,hyderabad,0,3,0,3,0.0
+g sumith,col_c_k_nayudu,andhra,0,4,0,4,0.0
+gaurang,col_c_k_nayudu,saurashtra,0,1,0,1,0.0
+gaurang,ranji_trophy,saurashtra,0,1,0,1,0.0
+gaurang,syed_mushtaq_ali_trophy,saurashtra,0,1,0,1,0.0
+gaurav chaturvedi,col_c_k_nayudu,chhattisgarh,0,1,0,1,0.0
+gaurav mehra,col_c_k_nayudu,delhi,0,3,0,3,0.0
+gaurav sabharwal,col_c_k_nayudu,delhi,0,1,0,1,0.0
+gauravdeep singh gill,col_c_k_nayudu,chandigarh,0,2,0,2,0.0
+gavineal marpna,col_c_k_nayudu,meghalaya,0,1,0,1,0.0
+george politis,ecb_club,ormskirk,0,1,0,1,0.0
+girraj sharma,col_c_k_nayudu,madhya pradesh,0,3,0,3,0.0
+gopal kumar kamti,ranji_trophy,arunachal pradesh,0,1,0,1,0.0
+gopal kumar kamti,syed_mushtaq_ali_trophy,arunachal pradesh,0,1,0,1,0.0
+gsp teja,col_c_k_nayudu,andhra,0,3,0,3,0.0
+gurjapneet,ranji_trophy,tamil nadu,0,2,0,2,0.0
+bhargav bhatt,ranji_trophy,baroda,0,1,0,1,0.0
+bhagyarajsinh chudasama,syed_mushtaq_ali_trophy,saurashtra,0,1,0,1,0.0
+bhagyarajsinh chudasama,ranji_trophy,saurashtra,0,1,0,1,0.0
+aditya yadav,col_c_k_nayudu,saurashtra,0,1,0,1,0.0
+abhishek thakur,col_c_k_nayudu,arunachal pradesh,0,2,0,2,0.0
+abhishek thakur,col_c_k_nayudu,himachal pradesh,0,2,0,2,0.0
+abid mushtaq,ranji_trophy,j  k,0,1,0,1,0.0
+abid mushtaq,syed_mushtaq_ali_trophy,j  k,0,1,0,1,0.0
+abir kohli,col_c_k_nayudu,punjab,0,3,0,3,0.0
+abishek,col_c_k_nayudu,sikkim,0,6,0,6,0.0
+adam london,ecb_club,richmond,0,1,0,1,0.0
+adam tillcock,ecb_club,cuckney,0,1,0,1,0.0
+aditya vinod giri,col_c_k_nayudu,mumbai,0,15,0,15,0.0
+yuvrajsinh shinol,syed_mushtaq_ali_trophy,saurashtra,0,15,0,15,0.0
+anandh bhowmik,col_c_k_nayudu,tripura,0,2,0,2,0.0
+yuvrajsinh shinol,ranji_trophy,saurashtra,0,15,0,15,0.0
+yuvrajsinh shinol,col_c_k_nayudu,saurashtra,0,15,0,15,0.0
+akula vijay,col_c_k_nayudu,andhra,0,4,0,4,0.0
+akula vijay,ranji_trophy,andhra,0,4,0,4,0.0
+akula vijay,syed_mushtaq_ali_trophy,andhra,0,4,0,4,0.0
+ali ahmed,col_c_k_nayudu,bengal,0,2,0,2,0.0
+alok kumar,ranji_trophy,bihar,0,7,0,7,0.0
+alok kumar,syed_mushtaq_ali_trophy,bihar,0,7,0,7,0.0
+aman meena,col_c_k_nayudu,rajasthan,0,1,0,1,0.0
+abhinav manohar,syed_mushtaq_ali_trophy,karnataka,1,17,1,19,0.0
+abhinav manohar,ranji_trophy,karnataka,1,17,1,19,0.0
+abhimanyu,syed_mushtaq_ali_trophy,uttarakhand,0,1,0,1,0.0
+abhimanyu,ranji_trophy,uttarakhand,0,1,0,1,0.0
+a lalith mohan,ranji_trophy,andhra,0,1,0,1,0.0
+a lalith mohan,syed_mushtaq_ali_trophy,andhra,0,1,0,1,0.0
+a p vashisht,ranji_trophy,himachal pradesh,0,1,0,1,0.0
+a p vashisht,syed_mushtaq_ali_trophy,himachal pradesh,0,1,0,1,0.0
+a sasank srivats,col_c_k_nayudu,andhra,0,5,0,5,0.0
+aaradhya yadav,col_c_k_nayudu,uttar pradesh,0,1,0,1,0.0
+aaradhya yadav,ranji_trophy,uttar pradesh,0,1,0,1,0.0
+aaradhya yadav,syed_mushtaq_ali_trophy,uttar pradesh,0,1,0,1,0.0
+abdul ajij kuraishi,col_c_k_nayudu,assam,0,1,0,1,0.0
+abdul ajij kuraishi,ranji_trophy,assam,0,1,0,1,0.0
+abdul ajij kuraishi,syed_mushtaq_ali_trophy,assam,0,1,0,1,0.0
+abdul anas khan,col_c_k_nayudu,chhattisgarh,0,1,0,1,0.0
+abdul bazith p a,ranji_trophy,kerala,0,1,0,1,0.0
+abdul bazith p a,syed_mushtaq_ali_trophy,kerala,0,1,0,1,0.0
+abdul rehman,col_c_k_nayudu,uttar pradesh,0,1,0,1,0.0
+abdul rehman,ranji_trophy,uttar pradesh,0,1,0,1,0.0
+abdul rehman,syed_mushtaq_ali_trophy,uttar pradesh,0,1,0,1,0.0
+abdul waseem,col_c_k_nayudu,uttar pradesh,0,1,0,1,0.0
+abdullah tahir,ecb_club,wollaton,0,1,0,1,0.0
+ambrish kumar singh,col_c_k_nayudu,chhattisgarh,0,1,0,1,0.0
+andre siddarth,col_c_k_nayudu,tamil nadu,0,1,0,1,0.0
+bhagyarajsinh chudasama,col_c_k_nayudu,saurashtra,0,1,0,1,0.0
+ashwani kumar,syed_mushtaq_ali_trophy,punjab,0,2,0,2,0.0
+arpit subhas,syed_mushtaq_ali_trophy,meghalaya,0,1,0,1,0.0
+aryadevsinh vaghela,col_c_k_nayudu,gujarat,0,1,0,1,0.0
+aryan,ranji_trophy,meghalaya,1,3,1,5,0.0
+aryan,syed_mushtaq_ali_trophy,meghalaya,1,3,1,5,0.0
+aryan chavda,col_c_k_nayudu,baroda,0,1,0,1,0.0
+aryan kushwah,col_c_k_nayudu,madhya pradesh,0,1,0,1,0.0
+aseem kohli,col_c_k_nayudu,punjab,0,3,0,3,0.0
+ashley jeffrey,second_xi,wa,0,5,0,5,0.0
+ashwani kumar,ranji_trophy,punjab,0,2,0,2,0.0
+asif ali,col_c_k_nayudu,kerala,0,1,0,1,0.0
+andre siddarth,ranji_trophy,tamil nadu,0,1,0,1,0.0
+asif iqubal,col_c_k_nayudu,bihar,0,1,0,1,0.0
+asif washimul haque,ranji_trophy,assam,0,1,0,1,0.0
+asif washimul haque,syed_mushtaq_ali_trophy,assam,0,1,0,1,0.0
+atif bin mushtaq,col_c_k_nayudu,j  k,0,2,0,2,0.0
+avinash,col_c_k_nayudu,railways,0,1,0,1,0.0
+aviraj singh gill,col_c_k_nayudu,chandigarh,0,1,0,1,0.0
+b chungya,col_c_k_nayudu,arunachal pradesh,0,2,0,2,0.0
+bamyibe npanme,col_c_k_nayudu,nagaland,0,1,0,1,0.0
+ben seabrook,ecb_club,penzance,0,3,0,3,0.0
+arpit subhas,ranji_trophy,meghalaya,0,1,0,1,0.0
+arpit singh,syed_mushtaq_ali_trophy,chandigarh,0,1,0,1,0.0
+arpit singh,ranji_trophy,chandigarh,0,1,0,1,0.0
+arpit rana,syed_mushtaq_ali_trophy,delhi,0,1,0,1,0.0
+andre siddarth,syed_mushtaq_ali_trophy,tamil nadu,0,1,0,1,0.0
+animesh kumar,col_c_k_nayudu,bihar,0,2,0,2,0.0
+ankit,col_c_k_nayudu,arunachal pradesh,0,1,0,1,0.0
+ankit,col_c_k_nayudu,railways,0,1,0,1,0.0
+ankit,ranji_trophy,uttarakhand,0,1,0,1,0.0
+ankit,syed_mushtaq_ali_trophy,uttarakhand,0,1,0,1,0.0
+anubhav,col_c_k_nayudu,uttar pradesh,0,1,0,1,0.0
+anuj rawat,ranji_trophy,delhi,0,1,0,1,0.0
+anuj rawat,syed_mushtaq_ali_trophy,delhi,0,1,0,1,0.0
+arindam barman,col_c_k_nayudu,tripura,0,1,0,1,0.0
+arjun eranna sakrola,ranji_trophy,arunachal pradesh,0,1,0,1,0.0
+arjun eranna sakrola,syed_mushtaq_ali_trophy,arunachal pradesh,0,1,0,1,0.0
+arjun ingle,col_c_k_nayudu,vidarbha,0,1,0,1,0.0
+arjun venugopal,col_c_k_nayudu,kerala,0,1,0,1,0.0
+arpan walia,col_c_k_nayudu,punjab,0,1,0,1,0.0
+arpit,col_c_k_nayudu,railways,0,1,0,1,0.0
+arpit n guleria,ranji_trophy,himachal pradesh,0,1,0,1,0.0
+arpit n guleria,syed_mushtaq_ali_trophy,himachal pradesh,0,1,0,1,0.0
+arpit rana,col_c_k_nayudu,delhi,0,1,0,1,0.0
+harsha vardhan,col_c_k_nayudu,andhra,0,3,0,3,0.0
+harsh tanna,syed_mushtaq_ali_trophy,mumbai,0,1,0,1,0.0
+yash kadam,ranji_trophy,vidarbha,0,1,0,1,0.0
+m s rathee,ranji_trophy,services,0,1,0,1,0.0
+m hemanth reddy,ranji_trophy,andhra,0,1,0,1,0.0
+m hemanth reddy,syed_mushtaq_ali_trophy,andhra,0,1,0,1,0.0
+m lekhaz,col_c_k_nayudu,andhra,0,2,0,2,0.0
+m lekhaz,ranji_trophy,andhra,0,2,0,2,0.0
+m lekhaz,syed_mushtaq_ali_trophy,andhra,0,2,0,2,0.0
+m prasidh,ranji_trophy,karnataka,0,3,0,3,0.0
+m prasidh,syed_mushtaq_ali_trophy,karnataka,0,3,0,3,0.0
+m ravi kiran,col_c_k_nayudu,andhra,0,2,0,2,0.0
+m s bhandage,syed_mushtaq_ali_trophy,karnataka,0,1,0,1,0.0
+m s rathee,syed_mushtaq_ali_trophy,services,0,1,0,1,0.0
+mann bhatt,col_c_k_nayudu,saurashtra,0,1,0,1,0.0
+m sai pratheek,ranji_trophy,hyderabad,0,1,0,1,0.0
+m v bhavendra reddy,col_c_k_nayudu,andhra,0,1,0,1,0.0
+mahesh pithiya,col_c_k_nayudu,baroda,0,1,0,1,0.0
+mahesh pithiya,ranji_trophy,baroda,0,1,0,1,0.0
+mahesh pithiya,syed_mushtaq_ali_trophy,baroda,0,1,0,1,0.0
+manan bhatt,col_c_k_nayudu,mumbai,0,1,0,1,0.0
+manan vohra,ranji_trophy,chandigarh,0,1,0,1,0.0
+manan vohra,syed_mushtaq_ali_trophy,chandigarh,0,1,0,1,0.0
+manav vashisht,col_c_k_nayudu,punjab,0,1,0,1,0.0
+m hemanth reddy,col_c_k_nayudu,andhra,0,1,0,1,0.0
+m abhinav,syed_mushtaq_ali_trophy,andhra,0,3,0,3,0.0
+m abhinav,col_c_k_nayudu,andhra,0,3,0,3,0.0
+lunthu martin,col_c_k_nayudu,nagaland,0,1,0,1,0.0
+kuldeep singh yadav,syed_mushtaq_ali_trophy,uttar pradesh,0,1,0,1,0.0
+lakshay sehrawat,col_c_k_nayudu,delhi,0,2,0,2,0.0
+lakshyajeet p,col_c_k_nayudu,baroda,0,1,0,1,0.0
+lalit kumar,ranji_trophy,arunachal pradesh,0,1,0,1,0.0
+lalit kumar,syed_mushtaq_ali_trophy,arunachal pradesh,0,1,0,1,0.0
+lalit yadav,ranji_trophy,delhi,0,1,0,1,0.0
+lalit yadav,ranji_trophy,vidarbha,0,1,0,1,0.0
+lalit yadav,syed_mushtaq_ali_trophy,delhi,0,1,0,1,0.0
+lalit yadav,syed_mushtaq_ali_trophy,vidarbha,0,1,0,1,0.0
+langlonyamba m,ranji_trophy,manipur,0,1,0,1,0.0
+langlonyamba m,syed_mushtaq_ali_trophy,manipur,0,1,0,1,0.0
+lerry,ranji_trophy,meghalaya,0,3,0,3,0.0
+lerry,syed_mushtaq_ali_trophy,meghalaya,0,3,0,3,0.0
+liam blackford,second_xi,victoria,0,1,0,1,0.0
+likha tayam,col_c_k_nayudu,arunachal pradesh,0,1,0,1,0.0
+lokendra singh rathore,col_c_k_nayudu,rajasthan,0,6,0,6,0.0
+lokesh g chauhan,col_c_k_nayudu,himachal pradesh,0,6,0,6,0.0
+lokesh kumar,ranji_trophy,arunachal pradesh,0,6,0,6,0.0
+lokesh kumar,syed_mushtaq_ali_trophy,arunachal pradesh,0,6,0,6,0.0
+manav vashisht,syed_mushtaq_ali_trophy,punjab,0,1,0,1,0.0
+warrier,syed_mushtaq_ali_trophy,tamil nadu,0,3,0,3,0.0
+kuldeep sen,syed_mushtaq_ali_trophy,madhya pradesh,0,1,0,1,0.0
+vishvajeet mishra,col_c_k_nayudu,bengal,0,2,0,2,0.0
+mridul p surroch,ranji_trophy,himachal pradesh,0,3,0,3,0.0
+mridul p surroch,syed_mushtaq_ali_trophy,himachal pradesh,0,3,0,3,0.0
+muhammad hassan hameed,ecb_club,wanstead  snaresbrook,0,1,0,1,0.0
+muhammed kaif,col_c_k_nayudu,kerala,0,1,0,1,0.0
+mujtaba yousuf,col_c_k_nayudu,j  k,0,1,0,1,0.0
+mukesh,ranji_trophy,uttarakhand,2,13,2,17,0.0
+mukesh,syed_mushtaq_ali_trophy,uttarakhand,2,13,2,17,0.0
+musaif ajaz,col_c_k_nayudu,j  k,0,1,0,1,0.0
+musaif ajaz,syed_mushtaq_ali_trophy,j  k,0,1,0,1,0.0
+virat singh,syed_mushtaq_ali_trophy,jharkhand,0,1,0,1,0.0
+warrier,ranji_trophy,tamil nadu,0,3,0,3,0.0
+nabam india,col_c_k_nayudu,arunachal pradesh,0,1,0,1,0.0
+naman gaurav,col_c_k_nayudu,bihar,0,1,0,1,0.0
+nara weshi,col_c_k_nayudu,arunachal pradesh,0,2,0,2,0.0
+natha shehbaj,col_c_k_nayudu,baroda,0,3,0,3,0.0
+negi,col_c_k_nayudu,uttarakhand,0,2,0,2,0.0
+nehal pajni,ranji_trophy,chandigarh,0,1,0,1,0.0
+nehal pajni,syed_mushtaq_ali_trophy,chandigarh,0,1,0,1,0.0
+nic broes,second_xi,australian capital territory,0,3,0,3,0.0
+nich mima,col_c_k_nayudu,arunachal pradesh,0,2,0,2,0.0
+mridul p surroch,col_c_k_nayudu,himachal pradesh,0,3,0,3,0.0
+money grewal,syed_mushtaq_ali_trophy,delhi,0,4,0,4,0.0
+money grewal,ranji_trophy,delhi,0,4,0,4,0.0
+mohit,syed_mushtaq_ali_trophy,rajasthan,5,13,5,23,0.0
+vivek vashisht,syed_mushtaq_ali_trophy,chandigarh,0,1,0,1,0.0
+vivek vashisht,ranji_trophy,chandigarh,0,1,0,1,0.0
+md arif,col_c_k_nayudu,sikkim,0,1,0,1,0.0
+md saif,col_c_k_nayudu,mumbai,0,1,0,1,0.0
+meet bhavsar,col_c_k_nayudu,rajasthan,0,2,0,2,0.0
+meet bhavsar,syed_mushtaq_ali_trophy,rajasthan,0,2,0,2,0.0
+meet g,col_c_k_nayudu,saurashtra,0,1,0,1,0.0
+mehul v pathania,col_c_k_nayudu,himachal pradesh,0,2,0,2,0.0
+milind mondal,col_c_k_nayudu,bengal,0,2,0,2,0.0
+mindu tsering,col_c_k_nayudu,arunachal pradesh,0,2,0,2,0.0
+mit mangukiya,col_c_k_nayudu,baroda,0,2,0,2,0.0
+mohammad afreedi,ranji_trophy,hyderabad,0,5,0,5,0.0
+mohammad afreedi,syed_mushtaq_ali_trophy,hyderabad,0,5,0,5,0.0
+mohammed shami,ranji_trophy,bengal,0,2,0,2,0.0
+mohammed shami,syed_mushtaq_ali_trophy,bengal,0,2,0,2,0.0
+mohammed waseef mukadam,syed_mushtaq_ali_trophy,pondicherry,0,1,0,1,0.0
+mohd abdul adnan,col_c_k_nayudu,hyderabad,0,1,0,1,0.0
+mohd abdul adnan,syed_mushtaq_ali_trophy,hyderabad,0,1,0,1,0.0
+mohit,ranji_trophy,rajasthan,5,13,5,23,0.0
+yash dayal,syed_mushtaq_ali_trophy,uttar pradesh,2,9,2,13,0.0
+kuldeep singh yadav,ranji_trophy,uttar pradesh,0,1,0,1,0.0
+vijay r,syed_mushtaq_ali_trophy,pondicherry,1,0,1,2,0.0
+ishan afridi,ranji_trophy,madhya pradesh,0,5,0,5,0.0
+joe seager,ecb_club,tamworth,0,1,0,1,0.0
+johnson,ranji_trophy,manipur,0,1,0,1,0.0
+johnson,syed_mushtaq_ali_trophy,manipur,0,1,0,1,0.0
+ishan afridi,col_c_k_nayudu,madhya pradesh,0,5,0,5,0.0
+hrithik shokeen,ranji_trophy,delhi,0,6,0,6,0.0
+josh little,ecb_club,horwich rmi,0,1,0,1,0.0
+joshua brown,domestic_one_day,victoria,0,3,0,3,0.0
+jotin pheiroijam,ranji_trophy,manipur,0,1,0,1,0.0
+jotin pheiroijam,syed_mushtaq_ali_trophy,manipur,0,1,0,1,0.0
+k nikhileshwar,col_c_k_nayudu,andhra,0,7,0,7,0.0
+k nithish kumar reddy,col_c_k_nayudu,andhra,0,12,0,12,0.0
+k nithish kumar reddy,ranji_trophy,andhra,0,12,0,12,0.0
+k nithish kumar reddy,syed_mushtaq_ali_trophy,andhra,0,12,0,12,0.0
+k revanth reddy,col_c_k_nayudu,andhra,0,3,0,3,0.0
+k revanth reddy,ranji_trophy,andhra,0,3,0,3,0.0
+k revanth reddy,syed_mushtaq_ali_trophy,andhra,0,3,0,3,0.0
+k rohit rayudu,ranji_trophy,hyderabad,0,1,0,1,0.0
+kuldeep sen,ranji_trophy,madhya pradesh,0,1,0,1,0.0
+k rohit rayudu,syed_mushtaq_ali_trophy,hyderabad,0,1,0,1,0.0
+jitumoni kalita,syed_mushtaq_ali_trophy,assam,0,1,0,1,0.0
+jitumoni kalita,ranji_trophy,assam,0,1,0,1,0.0
+jhathavedh subramanyan,syed_mushtaq_ali_trophy,tamil nadu,0,1,0,1,0.0
+jake fraser-mcgurk,sheffield_shield,sa,0,5,0,5,0.0
+ishan chopra,col_c_k_nayudu,delhi,0,1,0,1,0.0
+ishan sharma,col_c_k_nayudu,hyderabad,0,1,0,1,0.0
+j k bhatt,col_c_k_nayudu,gujarat,0,1,0,1,0.0
+j unadkat,ranji_trophy,saurashtra,0,1,0,1,0.0
+j unadkat,syed_mushtaq_ali_trophy,saurashtra,0,1,0,1,0.0
+jahir ahammed,col_c_k_nayudu,bengal,0,2,0,2,0.0
+jairam kasyap,col_c_k_nayudu,hyderabad,0,1,0,1,0.0
+jake fraser-mcgurk,domestic_one_day,sa,0,5,0,5,0.0
+james southgate,ecb_club,east molesey,0,10,0,10,0.0
+jhathavedh subramanyan,ranji_trophy,tamil nadu,0,1,0,1,0.0
+jaskirat singh mehra,col_c_k_nayudu,chandigarh,0,4,0,4,0.0
+jatin vashisht,col_c_k_nayudu,arunachal pradesh,0,3,0,3,0.0
+jay bhavsar,ranji_trophy,arunachal pradesh,0,1,0,1,0.0
+jay bhavsar,syed_mushtaq_ali_trophy,arunachal pradesh,0,1,0,1,0.0
+jayant tambi,col_c_k_nayudu,rajasthan,0,1,0,1,0.0
+jayanta bhattacharajee,col_c_k_nayudu,tripura,0,1,0,1,0.0
+jaymeet patel,ranji_trophy,gujarat,0,1,0,1,0.0
+jaymeet patel,syed_mushtaq_ali_trophy,gujarat,0,1,0,1,0.0
+k s raju,col_c_k_nayudu,andhra,0,4,0,4,0.0
+k s raju,ranji_trophy,andhra,0,4,0,4,0.0
+k s raju,syed_mushtaq_ali_trophy,andhra,0,4,0,4,0.0
+khurram reja khan,ranji_trophy,arunachal pradesh,0,3,0,3,0.0
+kashyap bakle,ranji_trophy,goa,0,1,0,1,0.0
+kashyap bakle,syed_mushtaq_ali_trophy,goa,0,1,0,1,0.0
+kashyap suva,col_c_k_nayudu,saurashtra,0,1,0,1,0.0
+kaushal hattangadi,col_c_k_nayudu,goa,0,1,0,1,0.0
+kaushal s tambe,col_c_k_nayudu,maharashtra,0,1,0,1,0.0
+kazi junaid saifi,ranji_trophy,bengal,0,1,0,1,0.0
+kazi junaid saifi,syed_mushtaq_ali_trophy,bengal,0,1,0,1,0.0
+kevin christopher,col_c_k_nayudu,meghalaya,0,2,0,2,0.0
+kevin mehta,col_c_k_nayudu,baroda,0,4,0,4,0.0
+khurram reja khan,syed_mushtaq_ali_trophy,arunachal pradesh,0,3,0,3,0.0
+k s s jayanth,col_c_k_nayudu,andhra,0,6,0,6,0.0
+kivnoor singh,col_c_k_nayudu,chhattisgarh,0,15,0,15,0.0
+krains fuletra,col_c_k_nayudu,saurashtra,0,3,0,3,0.0
+krains fuletra,ranji_trophy,saurashtra,0,3,0,3,0.0
+krains fuletra,syed_mushtaq_ali_trophy,saurashtra,0,3,0,3,0.0
+yash dayal,ranji_trophy,uttar pradesh,2,9,2,13,0.0
+kritagya k k singh,ranji_trophy,uttar pradesh,0,1,0,1,0.0
+kritagya k k singh,syed_mushtaq_ali_trophy,uttar pradesh,0,1,0,1,0.0
+wilf la fontaine jackson,ecb_club,st cross symondians,0,1,0,1,0.0
+kuldeep chouhan,col_c_k_nayudu,baroda,0,1,0,1,0.0
+kartik tyagi,syed_mushtaq_ali_trophy,uttar pradesh,0,1,0,1,0.0
+kartik tyagi,ranji_trophy,uttar pradesh,0,1,0,1,0.0
+kartik bhatt,col_c_k_nayudu,uttarakhand,0,1,0,1,0.0
+karn sharma,syed_mushtaq_ali_trophy,railways,2,5,2,9,0.0
+kamal,ranji_trophy,uttarakhand,0,1,0,1,0.0
+kamal,syed_mushtaq_ali_trophy,uttarakhand,0,1,0,1,0.0
+kamlesh nagarkoti,ranji_trophy,rajasthan,0,1,0,1,0.0
+kamlesh nagarkoti,syed_mushtaq_ali_trophy,rajasthan,0,1,0,1,0.0
+kamsha yangfo,ranji_trophy,arunachal pradesh,0,1,0,1,0.0
+kamsha yangfo,syed_mushtaq_ali_trophy,arunachal pradesh,0,1,0,1,0.0
+kanhaiya bhatt,col_c_k_nayudu,uttarakhand,0,1,0,1,0.0
+karan kannan,col_c_k_nayudu,pondicherry,0,1,0,1,0.0
+karan lamba,col_c_k_nayudu,rajasthan,0,1,0,1,0.0
+karan lamba,ranji_trophy,rajasthan,0,1,0,1,0.0
+karan lamba,syed_mushtaq_ali_trophy,rajasthan,0,1,0,1,0.0
+karan sharma,col_c_k_nayudu,chandigarh,1,1,1,3,0.0
+karan sharma,ranji_trophy,uttar pradesh,1,1,1,3,0.0
+karan sharma,syed_mushtaq_ali_trophy,uttar pradesh,1,1,1,3,0.0
+karl brown,ecb_club,leigh,0,3,0,3,0.0
+karn kashyap,col_c_k_nayudu,delhi,0,1,0,1,0.0
+karn sharma,ranji_trophy,railways,2,5,2,9,0.0
+ishan afridi,syed_mushtaq_ali_trophy,madhya pradesh,0,5,0,5,0.0
+harsh,col_c_k_nayudu,uttarakhand,27,46,21,94,-0.06382978723404255
+travis head,sheffield_shield,sa,8,14,5,27,-0.1111111111111111
+bharat,col_c_k_nayudu,meghalaya,1,6,0,7,-0.14285714285714285
+badal,col_c_k_nayudu,odisha,1,5,0,6,-0.16666666666666666
+josh inglis,domestic_one_day,wa,1,4,0,5,-0.2
+josh inglis,sheffield_shield,wa,1,4,0,5,-0.2
+mayank agarawal,syed_mushtaq_ali_trophy,karnataka,2,1,1,4,-0.25
+mayank agarawal,ranji_trophy,karnataka,2,1,1,4,-0.25
+mayank yadav,col_c_k_nayudu,chhattisgarh,1,2,0,3,-0.3333333333333333
+mayank yadav,ranji_trophy,delhi,1,2,0,3,-0.3333333333333333
+mayank yadav,syed_mushtaq_ali_trophy,delhi,1,2,0,3,-0.3333333333333333
+b sachin,col_c_k_nayudu,tamil nadu,1,2,0,3,-0.3333333333333333
+ajinkya rahane,syed_mushtaq_ali_trophy,mumbai,1,2,0,3,-0.3333333333333333
+ajinkya rahane,ranji_trophy,mumbai,1,2,0,3,-0.3333333333333333
+mayank yadav,ranji_trophy,chhattisgarh,1,2,0,3,-0.3333333333333333
+mayank yadav,syed_mushtaq_ali_trophy,chhattisgarh,1,2,0,3,-0.3333333333333333
+harshit,col_c_k_nayudu,chandigarh,13,8,4,25,-0.36
+harshit,col_c_k_nayudu,bihar,13,8,4,25,-0.36
+nitish reddy,ranji_trophy,hyderabad,4,2,1,7,-0.42857142857142855
+nitish reddy,syed_mushtaq_ali_trophy,hyderabad,4,2,1,7,-0.42857142857142855
+harshit rana,ranji_trophy,delhi,8,3,2,13,-0.46153846153846156
+harshit rana,syed_mushtaq_ali_trophy,delhi,8,3,2,13,-0.46153846153846156
+n yadav,ranji_trophy,services,2,2,0,4,-0.5
+ravinder,ranji_trophy,uttarakhand,1,1,0,2,-0.5
+shahrukh khan,syed_mushtaq_ali_trophy,tamil nadu,1,1,0,2,-0.5
+ravinder,syed_mushtaq_ali_trophy,uttarakhand,1,1,0,2,-0.5
+shahrukh khan,ranji_trophy,tamil nadu,1,1,0,2,-0.5
+n yadav,syed_mushtaq_ali_trophy,services,2,2,0,4,-0.5
+harshit m,col_c_k_nayudu,baroda,3,2,0,5,-0.6
+annam takshith rao,col_c_k_nayudu,hyderabad,2,1,0,3,-0.6666666666666666
+aditya,col_c_k_nayudu,bihar,2,0,0,2,-1.0
+akshit rana,col_c_k_nayudu,chandigarh,2,0,0,2,-1.0
+akshit r kanwar,col_c_k_nayudu,himachal pradesh,2,0,0,2,-1.0
+aditya tare,ranji_trophy,uttarakhand,1,0,0,1,-1.0
+aditya tare,syed_mushtaq_ali_trophy,uttarakhand,1,0,0,1,-1.0
+gautam,ranji_trophy,bihar,1,0,0,1,-1.0
+shivam mavi,syed_mushtaq_ali_trophy,uttar pradesh,1,0,0,1,-1.0
+xavier bartlett,sheffield_shield,qld,1,0,0,1,-1.0
+gautam,syed_mushtaq_ali_trophy,bihar,1,0,0,1,-1.0
+harshit dubey,col_c_k_nayudu,madhya pradesh,2,0,0,2,-1.0
+harshit yadav,col_c_k_nayudu,madhya pradesh,2,0,0,2,-1.0
+shivam mavi,ranji_trophy,uttar pradesh,1,0,0,1,-1.0
+xavier bartlett,domestic_one_day,qld,1,0,0,1,-1.0
+kshitij patil,col_c_k_nayudu,maharashtra,2,0,0,2,-1.0
+washington sundar,syed_mushtaq_ali_trophy,tamil nadu,1,0,0,1,-1.0
+washington sundar,ranji_trophy,tamil nadu,1,0,0,1,-1.0
+rishit n thakur,col_c_k_nayudu,himachal pradesh,2,0,0,2,-1.0
+rishith reddy,col_c_k_nayudu,hyderabad,2,0,0,2,-1.0
+a badrinath,col_c_k_nayudu,tamil nadu,1,0,0,1,-1.0
