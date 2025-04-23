@@ -18,24 +18,35 @@ df = load_data()
 # Sidebar: Filters
 with st.sidebar:
     st.header("🔍 Filter Options")
+
+    # Competition name search
+    comp_search = st.text_input("Search Competition Name").lower()
+
+    # Optional team search
+    team_search = st.text_input("Search Team Name").lower()
+
     min_mentions = st.slider("Minimum Mentions", 1, int(df['total_mentions'].max()), 5)
     sort_option = st.selectbox("Sort Players By", ['sentiment_score', 'total_mentions'])
 
-    # Optional player/team search
-    player_search = st.text_input("Search player name (optional)").lower()
-
 # Apply filters
-filtered = df[df['total_mentions'] >= min_mentions]
+filtered = df.copy()
 
-if player_search:
-    filtered = filtered[filtered['mentioned_players'].str.contains(player_search, case=False, na=False)]
+if comp_search:
+    filtered = filtered[filtered['Competition'].str.lower().str.contains(comp_search, na=False)]
+
+if team_search:
+    filtered = filtered[filtered['Team'].str.lower().str.contains(team_search, na=False)]
+
+filtered = filtered[filtered['total_mentions'] >= min_mentions]
 
 filtered = filtered.sort_values(by=sort_option, ascending=False).reset_index(drop=True)
 
 # Main: Leaderboard Table
 st.subheader("🏆 Sentiment-Based Player Rankings")
 st.dataframe(
-    filtered.rename(columns={"mentioned_players": "Player"}),
+    filtered.rename(columns={"mentioned_players": "Player"})[[
+        "Player", "Team", "Competition", "total_mentions", "sentiment_score"
+    ]],
     use_container_width=True,
     height=500
 )
