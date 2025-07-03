@@ -1,15 +1,18 @@
-# ipl_sentiment_project
+# IPL Sentiment Project
 
 Creating a system, which ranks youth indian players based on how often they're mentioned and how positively they're talked about on Reddit. 
 
-Pipeline:
+## Table of Contents
 
-1. Streaming Data from Reddit using PRAW -> reddit_comments_batch.csv & reddit_posts_posts.csv
+- [Overview](#overview)
+- [Pipeline](#pipeline)
+- [Data Files](#data-files)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Dashboard](#dashboard)
+- [Results](#results)
+- [Contributing](#contributing)
+- [License](#license)
 
-2. Running Sentiment analysis on data extracted using Vader & RoBERTA. Results saved to sentiment_results.csv
-
-3. NER performed (Fuzzy Matching). Used sentiment_results.csv & players_data.csv which is a table of cricket players scraped from cricket websites. This output is saved to sentiment_with_players_fuzzy.csv
-
-4. Aggregate sentiment by players. Sentiment scored by (positive - negative / total mentions). Results saved to ranked_players.csv
-
-5. Created dashboard via dashboard.py
+## Overview
+This project involves streaming data (posts & comments) from the r/ipl subreddit. Once this data is collected, sentiment analysis is performed to analyse the sentiment behind each post. It then uses Fuzzy Matching to link sentiment mentions to a database of youth cricket players scraped from tournament websites. These sentiment scores are then aggregated for each player and are ranked accordingly. The results are then visualised via an interactive streamlit dashboard. 
