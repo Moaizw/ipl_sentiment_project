@@ -58,8 +58,7 @@ This project involves streaming data (posts & comments) from the r/ipl subreddit
 Launch the interactive Streamlit dashboard:
 
     streamlit run dashboard.py
-
-- Browse at: `http://localhost:8050`  
+ 
 - Explore:  
   - Sentiment trends over time  
   - Top-ranked players  
@@ -77,7 +76,9 @@ Launch the interactive Streamlit dashboard:
 <img width="1394" alt="Screenshot 2025-07-03 at 17 19 38" src="https://github.com/user-attachments/assets/c828141c-7a46-40c3-80db-a14c3f58d99a" />
 
 -- **Notes & Limitations**
-   -Fuzzy matching can lead to false positives on short tokens such as 'Dev' & 'Meet'.
-   -Can potentially solve this by increasing fuzzy match threshold or filtering out short token e.g. < 5 characters long. 
+   -**Fuzzy matching:** Short or common tokens e.g. 'Dev', 'Meet' can leads to false positives
+   -**Potential improvements:**
+      -Increase fuzzy match threshold. 
+      -Filter out short tokens e.g. < 5 characters long.
 
 
