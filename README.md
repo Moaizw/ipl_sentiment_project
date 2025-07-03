@@ -1,6 +1,6 @@
 # IPL Sentiment Project
 
-Creating a system, which ranks youth indian players based on how often they're mentioned and how positively they're talked about on Reddit. 
+Creating a system, which ranks youth cricket players based on how often they're mentioned and how positively they're talked about on Reddit. 
 
 ## Table of Contents
 
