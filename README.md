@@ -75,7 +75,7 @@ Launch the interactive Streamlit dashboard:
   - Filters by date range, team and competition
 <img width="1394" alt="Screenshot 2025-07-03 at 17 19 38" src="https://github.com/user-attachments/assets/c828141c-7a46-40c3-80db-a14c3f58d99a" />
 
-**Notes & Limitations**
+## Notes & Limitations
    -**Fuzzy matching:** Short or common tokens e.g. 'Dev', 'Meet' can leads to false positives
    -**Potential improvements:**
       -Increase fuzzy match threshold. 
