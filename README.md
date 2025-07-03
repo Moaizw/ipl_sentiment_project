@@ -78,7 +78,7 @@ Launch the interactive Streamlit dashboard:
 ## Notes & Limitations
 
 -**Fuzzy matching:** 
-   - Short or common tokens e.g. 'Dev', 'Meet' can leads to false positives
+   - Short or common tokens e.g. 'Dev', 'Meet' can lead to false positives
    
 -**Potential improvements:**
    - Increase fuzzy match threshold. 
