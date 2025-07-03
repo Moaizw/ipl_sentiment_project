@@ -7,11 +7,8 @@ Creating a system, which ranks youth cricket players based on how often they're 
 - [Overview](#overview)
 - [Pipeline](#pipeline)
 - [Data Files](#data-files)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Dashboard](#dashboard)
 - [Results](#results)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Overview
@@ -57,4 +54,9 @@ This project involves streaming data (posts & comments) from the r/ipl subreddit
 | `sentiment_with_players_fuzzy.csv` | NER + fuzzy-matched mentions to players      |
 | `ranked_players.csv`             | Final sentiment‐based player rankings          |
 
+## Dashboard
 
+Launch an interactive dashboard built on Streamlit:
+
+```bash
+streamlit run dashboard.py
