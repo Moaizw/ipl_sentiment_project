@@ -76,9 +76,10 @@ Launch the interactive Streamlit dashboard:
 <img width="1394" alt="Screenshot 2025-07-03 at 17 19 38" src="https://github.com/user-attachments/assets/c828141c-7a46-40c3-80db-a14c3f58d99a" />
 
 ## Notes & Limitations
-   -**Fuzzy matching:** Short or common tokens e.g. 'Dev', 'Meet' can leads to false positives
-   -**Potential improvements:**
-      -Increase fuzzy match threshold. 
-      -Filter out short tokens e.g. < 5 characters long.
+
+-**Fuzzy matching:** Short or common tokens e.g. 'Dev', 'Meet' can leads to false positives
+-**Potential improvements**
+   -Increase fuzzy match threshold. 
+   -Filter out short tokens e.g. < 5 characters long.
 
 
