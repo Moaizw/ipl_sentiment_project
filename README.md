@@ -9,7 +9,6 @@ Creating a system, which ranks youth cricket players based on how often they're 
 - [Data Files](#data-files)
 - [Dashboard](#dashboard)
 - [Results](#results)
-- [License](#license)
 
 ## Overview
 
@@ -60,3 +59,19 @@ Launch an interactive dashboard built on Streamlit:
 
 ```bash
 streamlit run dashboard.py
+
+## Results
+
+- **`ranked_players.csv`** – final ranking table sorted by sentiment score  
+- **Dashboard views**  
+  - Time-series plots of mentions & average sentiment  
+  - Leaderboard of top 10 positively-talked-about players  
+  - Filters by date range and sentiment threshold
+  - Can also sort by competition and team name as shown below.
+<img width="1394" alt="Screenshot 2025-07-03 at 17 19 38" src="https://github.com/user-attachments/assets/c828141c-7a46-40c3-80db-a14c3f58d99a" />
+
+-- **Notes & Limitations**
+   -Fuzzy matching can lead to false positives on short tokens such as 'Dev' & 'Meet'.
+   -Can potentially solve this by increasing fuzzy match threshold or filtering out short token e.g. < 5 characters long. 
+
+
