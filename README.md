@@ -55,10 +55,17 @@ This project involves streaming data (posts & comments) from the r/ipl subreddit
 
 ## Dashboard
 
-Launch an interactive dashboard built on Streamlit:
+Launch the interactive Streamlit dashboard:
 
-```bash
-streamlit run dashboard.py
+    streamlit run dashboard.py
+
+- Browse at: `http://localhost:8050`  
+- Explore:  
+  - Sentiment trends over time  
+  - Top-ranked players  
+  - Mention counts  
+
+---
 
 ## Results
 
@@ -66,8 +73,7 @@ streamlit run dashboard.py
 - **Dashboard views**  
   - Time-series plots of mentions & average sentiment  
   - Leaderboard of top 10 positively-talked-about players  
-  - Filters by date range and sentiment threshold
-  - Can also sort by competition and team name as shown below.
+  - Filters by date range, team and competition
 <img width="1394" alt="Screenshot 2025-07-03 at 17 19 38" src="https://github.com/user-attachments/assets/c828141c-7a46-40c3-80db-a14c3f58d99a" />
 
 -- **Notes & Limitations**
